@@ -1,0 +1,648 @@
+id,code,description,city,city_eng,street,area,zip,building,latitude,longitude,count
+1,POP-TOR21,WSZYSTKO ZA 5 ZŁ,Toruń,torun,Dziewulskiego,kujawsko-pomorskie,87-100,23A,53.02874,18.67282,0
+2,POP-TOR25,DROGERIA JAŚMIN,Toruń,torun,Szosa Lubicka ,kujawsko-pomorskie,87-100,168A,53.02658,18.682,0
+3,POP-TOR27,LOMBARD ,Toruń,torun,Targowa,kujawsko-pomorskie,87-100,44,53.0236777,18.6339936,0
+4,POP-TOR31,SHIP CENTER,Toruń,torun,Mickiewicza,kujawsko-pomorskie,87-100,61,53.0122451,18.5821658,0
+5,POP-TOR33,SPAR,Toruń,torun,Legionów,kujawsko-pomorskie,87-100,216F,53.03291,18.60216,0
+6,POP-TOR37,STACJA CIRCLE K,Toruń,torun,Szosa Lubicka,kujawsko-pomorskie,87-100,62,53.02217,18.65569,0
+7,POP-TOR38,FURGONETKA LOOKCENTER PRO,Toruń,torun,Wodociągowa,kujawsko-pomorskie,87-100,3,53.02611,18.59091,0
+8,POP-TOR39,VANGELIS,Toruń,torun,Mohna ,kujawsko-pomorskie,87-100,34,53.03224,18.59569,0
+9,POP-TOR40,SKLEP ODIDO,Toruń,torun,Kołłątaja ,kujawsko-pomorskie,87-100,10F,53.02328,18.60026,0
+10,POP-TOR41,EPAKA,Toruń,torun,Dziewulskiego ,kujawsko-pomorskie,87-100,39C,53.0285,18.67933,0
+11,POP-WRO103,SKALA,Wrocław,wroclaw,Kościuszki,dolnośląskie,50-011,49,51.10205,17.03539,0
+12,POP-WRO111,VAPE SHOP,Wrocław,wroclaw,Wesoła,dolnośląskie,50-535,40,51.09081,17.03868,0
+13,POP-WRO112,VAPE SHOP,Wrocław,wroclaw,Jedności Narodowej,dolnośląskie,50-258,54,51.11867,17.03839,0
+14,POP-WRO114,SKLEP PAPIERNICZY PROPEC,Wrocław,wroclaw,Piotra Norblina,dolnośląskie,51-664,36,51.1029159,17.1096245,0
+15,POP-WRO120,SKLEP PAPIERNICZY TOPOFFICE,Wrocław ,wroclaw,Komandorska ,dolnośląskie,53-344,147,51.09318,17.02534,0
+16,POP-WRO123,BRICOMARCHE,Wrocław ,wroclaw,Królewiecka,dolnośląskie,54-117,72,51.15722,16.92233,0
+17,POP-WRO124,FURGONETKA,Wrocław ,wroclaw,Kniaziewicza,dolnośląskie,50-454,5A,51.10204051216,17.040734359117,0
+18,POP-WRO126,AGENCJA OPŁAT,Wrocław,wroclaw,Kozia,dolnośląskie,54-104,3A,51.158541725621,16.927707050152,0
+19,POP-WRO128,DORABIANIE KLUCZY SEBKEY,Wrocław,wroclaw,Buforowa,dolnośląskie,52-131,100,51.050905103165,17.059692859043,0
+20,POP-WRO133,ARNO DORABIANIE KLUCZY(TARASY GRABISZYŃSKIE),Wrocław,wroclaw,Grabiszyńska,dolnośląskie,53-110,240,51.09435,16.98156,0
+21,POP-WRO134,SKLEP SPOŻYWCZY ,Wrocław ,wroclaw,Balzaka,dolnośląskie,52-437,95 A,51.077856362666,16.956937219984,0
+22,POP-WRO135,SKLEP PAPIERNICZY EMA,Wrocław,wroclaw,Słowicza,dolnośląskie,53-320,17,51.08812,17.00822,0
+23,POP-WRO141,SERWIS FIXER,Wrocław ,wroclaw,Piłsudskiego ,dolnośląskie,50-032,46,51.101790597884,17.027980853394,0
+24,POP-WRO144,SKLEP U POLAKÓW,Wrocław,wroclaw,Jerzmanowska,dolnośląskie,54-530,102,51.12043,16.87299,0
+25,POP-WRO145,AGENCJA OPŁAT EXPERT (STOISKO 75),Wrocław,wroclaw,Świeradowska,dolnośląskie,50-559,70,51.077347075252,17.047798682936,0
+26,POP-WRO146,MAIL BOXES ETC. ,Wrocław,wroclaw,Dokerska,dolnośląskie,54-142,7C,51.1391,16.96571,0
+27,POP-WRO147,BARBERCOMPANY SKLEP,Wrocław,wroclaw,Tęczowa,dolnośląskie,53-601,25,51.10619,17.01664,0
+28,POP-WRO148,VISVITALIS ZDROWA ŻYWNOŚĆ,Wrocław,wroclaw,Trawowa,dolnośląskie,54-614,55A,51.0996102,16.9508281,0
+29,POP-WRO151,EUROSPAR C.H. FERIO GAJ,Wrocław,wroclaw,Świeradowska,dolnośląskie,50-559,51-57,51.07638,17.04233,0
+30,POP-WRO152,EUROSPAR C.H. FAMILY POINT,Wrocław,wroclaw,Krakowska,dolnośląskie,50-424,51/69,51.09071,17.06247,0
+31,POP-WRO153,EUROSPAR C.H. ARKADY,Wrocław,wroclaw,Powstańców Śląskich,dolnośląskie,53-333,2-4,51.09914,17.02838,0
+32,POP-WRO154,NETTO,Wrocław,wroclaw,Kiełczowska,dolnośląskie,51-315,42,51.14705,17.12378,0
+33,POP-WRO155,NETTO,Wrocław,wroclaw,Nowodworska,dolnośląskie,54-433,17A,51.11487,16.96544,0
+34,POP-WRO156,NETTO,Wrocław,wroclaw,Stryjska,dolnośląskie,54-614,2,51.09736,16.95197,0
+35,POP-WRO159,SALONIK PRASOWY MÓJ KIOSK,Wrocław ,wroclaw,Olszewskiego,dolnośląskie,51-644,128,51.10155,17.1092,0
+36,POP-WRO160,SKLEP PETICO,Wrocław,wroclaw,Warmińska,dolnośląskie,54-110,20,51.14697,16.94129,0
+37,POP-WRO162,STACJA CIRCLE K,Wrocław ,wroclaw,Dmowskiego ,dolnośląskie,50-203,5,51.11715,17.02137,0
+38,POP-WRO164,STACJA CIRCLE K,Wrocław,wroclaw,Dyrekcyjna,dolnośląskie,50-086,30,51.09616,17.03986,0
+39,POP-WRO165,STACJA CIRCLE K,Wrocław ,wroclaw,Braniborska,dolnośląskie,53-680,84,51.11184,17.00619,0
+40,POP-WRO166,STACJA CIRCLE K,Wrocław ,wroclaw,Karkonoska,dolnośląskie,53-015,52,51.0624,17.00112,0
+41,POP-WRO167,SALONIK PRASOWY MÓJ KIOSK ,Wrocław ,wroclaw,Olszewskiego ,dolnośląskie,51-642,71,51.10173,17.10227,0
+42,POP-WRO168,SKLEP MOMAZU,Wrocław ,wroclaw,Małopolska ,dolnośląskie,54-032,36A,51.138940275043,16.89267036055,0
+43,POP-WRO169,SKLEP PRZYSTANEK,Wrocław,wroclaw,Zachodnia ,dolnośląskie,53-643,1K,51.1155,17.01586,0
+44,POP-WRO171,SKLEP SPOŻYWCZY BMB,Wrocław ,wroclaw,Czajkowskiego ,dolnośląskie,51-171,43B,51.13978847195,17.066082933002,0
+45,POP-WRO172,KIOSK ROMA,Wrocław ,wroclaw,Sienkiewicza ,dolnośląskie,50-347,144,51.11535,17.06651,0
+46,POP-WRO173,SKLEP POMADE FREAKS,Wrocław ,wroclaw,Jedności Narodowej,dolnośląskie,50-261,64,51.11938,17.03863,0
+47,POP-WRO174,SKLEP PAPIERNICZY KREDKA ,Wrocław ,wroclaw,Inflancka,dolnośląskie,51-354,4,51.14488,17.13204,0
+48,POP-WRO175,KIOSK W BIAŁYM PAWILONIE,Wrocław,wroclaw,Krynicka,dolnośląskie,50-555,1 PAW. 5,51.08238,17.04552,0
+49,POP-WRO177,UNILINK UBEZPIECZENIA ,Wrocław ,wroclaw,Dolnobrzeska,dolnośląskie,54-072,46F/LU2,51.150494813919,16.856994152069,0
+50,POP-WRO178,KSIĘGARNIA KWANT,Wrocław ,wroclaw,Prądzyńskiego ,dolnośląskie,50-434,4 LOK. 2,51.101328710503,17.051992993533,0
+51,POP-WRO180,JASNY GWINT,Wrocław ,wroclaw,Legnicka,dolnośląskie,53-671,21,51.11283,17.0171,0
+52,POP-WRO181,HAPPY PACK SKLEP ANIMATORA,Wrocław,wroclaw,Borowska,dolnośląskie,50-532,186 A,51.07755,17.03419,0
+53,POP-WRO182,DUŻY BEN,Wrocław,wroclaw,Litewska,dolnośląskie,51-354,14F,51.14227,17.13035,0
+54,POP-WRO183,DUŻY BEN,Wrocław ,wroclaw,Krzywoustego,dolnośląskie,51-310,319A,51.14675,17.11393,0
+55,POP-WRO184,DUŻY BEN,Wrocław,wroclaw,Wojaczka,dolnośląskie,51-169,1/1B,51.14663,17.07083,0
+56,POP-WRO185,DUŻY BEN,Wrocław,wroclaw,Kamieńskiego,dolnośląskie,51-001,213/U3,51.15462,17.0421,0
+57,POP-WRO186,DUŻY BEN,Wrocław,wroclaw,Polaka,dolnośląskie,50-379,14. 14A. 14B   / U1,51.11162,17.05528,0
+58,POP-WRO187,DUŻY BEN,Wrocław,wroclaw,Bulwar Ikara,dolnośląskie,54-130,17/1C,51.12593,16.97099,0
+59,POP-WRO188,DUŻY BEN,Wrocław,wroclaw,Sienkiewicza ,dolnośląskie,50-346,131,51.11498,17.06679,0
+60,POP-WRO189,DUŻY BEN,Wrocław,wroclaw,Bacciarellego,dolnośląskie,51-649,8A/1,51.10466,17.11358,0
+61,POP-WRO190,DUŻY BEN,Wrocław ,wroclaw,Al. Architektów,dolnośląskie,54-115,14D,51.13632,16.92841,0
+62,POP-WRO191,DUŻY BEN,Wrocław,wroclaw,Legnicka,dolnośląskie,53-672,33A/U4,51.11901,16.99527,0
+63,POP-WRO192,DUŻY BEN,Wrocław ,wroclaw,Sienkiewicza,dolnośląskie,50-348,89,51.11601,17.0574,0
+64,POP-WRO193,DUŻY BEN,Wrocław,wroclaw,Vespucciego,dolnośląskie,51-505,26A,51.10682,17.1234,0
+65,POP-WRO194,DUŻY BEN,Wrocław ,wroclaw,Legnicka ,dolnośląskie,54-203,57J,51.1247,16.98789,0
+66,POP-WRO195,DUŻY BEN,Wrocław,wroclaw,Tęczowa,dolnośląskie,53-601,83A,51.10444,17.00709,0
+67,POP-WRO196,DUŻY BEN,Wrocław ,wroclaw,Popowicka,dolnośląskie,54-236,97,51.12936,16.98879,0
+68,POP-WRO197,DUŻY BEN,Wrocław,wroclaw,Magellana,dolnośląskie,51-505,24A,51.11122,17.12206,0
+69,POP-WRO198,DUŻY BEN,Wrocław,wroclaw,Wyszyńskiego,dolnośląskie,50-330,45D,51.11752,17.05161,0
+70,POP-WRO199,DUŻY BEN,Wrocław,wroclaw,Prusa,dolnośląskie,50-319,21,51.11963,17.0493,0
+71,POP-WRO200,DUŻY BEN,Wrocław,wroclaw,Dziadoszańska,dolnośląskie,54-153,50A,51.13663,16.97985,0
+72,POP-WRO201,DUŻY BEN,Wrocław,wroclaw,Kościuszki,dolnośląskie,50-442,83-89/ U6,51.10108,17.04013,0
+73,POP-WRO202,DUŻY BEN,Wrocław,wroclaw,Wałbrzyska,dolnośląskie,53-235,3 B,51.06364,16.98387,0
+74,POP-WRO203,DUŻY BEN,Wrocław ,wroclaw,Krawiecka,dolnośląskie,50-148,3D,51.10885,17.03771,0
+75,POP-WRO204,DUŻY BEN,Wrocław,wroclaw,Powstańców Śląskich,dolnośląskie,53-317,139/1B,51.08734,17.01541,0
+76,POP-WRO205,DUŻY BEN,Wrocław ,wroclaw,Kilińskiego,dolnośląskie,50-263,31,51.11942,17.03963,0
+77,POP-WRO206,DUŻY BEN,Wrocław,wroclaw,Traugutta,dolnośląskie,50-418,78B/U2,51.10286,17.05115,0
+78,POP-WRO207,DUŻY BEN,Wrocław ,wroclaw,Dubois,dolnośląskie,50-208,4,51.11691,17.03292,0
+79,POP-WRO208,DUŻY BEN,Wrocław ,wroclaw,Kukuczki,dolnośląskie,50-017,7/U2,51.07201,17.03953,0
+80,POP-WRO209,DUŻY BEN,Wrocław,wroclaw,Traugutta ,dolnośląskie,50-419,107/1A,51.10045,17.05335,0
+81,POP-WRO210,DUŻY BEN,Wrocław,wroclaw,Pomorska,dolnośląskie,50-219,44B,51.12129,17.03109,0
+82,POP-WRO211,DUŻY BEN,Wrocław,wroclaw,Więckowskiego,dolnośląskie,50-431,16/I1C,51.09842,17.05308,0
+83,POP-WRO212,DUŻY BEN,Wrocław,wroclaw,Pereca,dolnośląskie,53-444,12,51.09979,17.008,0
+84,POP-WRO213,DUŻY BEN,Wrocław,wroclaw,Jedności Narodowej,dolnośląskie,50-302,242A,51.12933,17.05405,0
+85,POP-WRO214,DUŻY BEN,Wrocław,wroclaw,Nyska,dolnośląskie,50-505,69,51.08458,17.05279,0
+86,POP-WRO215,DUŻY BEN,Wrocław,wroclaw,Zakładowa,dolnośląskie,50-231,20E,51.13085,17.0442,0
+87,POP-WRO216,DUŻY BEN,Wrocław,wroclaw,Żeromskiego,dolnośląskie,50-312,53,51.12345,17.0481,0
+88,POP-WRO217,DUŻY BEN,Wrocław,wroclaw,Hubska,dolnośląskie,50-502,78 B,51.09004,17.04521,0
+89,POP-WRO218,DUŻY BEN,Wrocław ,wroclaw,Gajowa,dolnośląskie,50-520,25,51.09196,17.0403,0
+90,POP-WRO219,DUŻY BEN,Wrocław ,wroclaw,Piłsudskiego,dolnośląskie,50-017,96/1A,51.100193851263,17.035358334625,0
+91,POP-WRO220,SZYBKIE ZAKUPY,Wrocław,wroclaw,Wincentego Stysia,dolnośląskie,53-525,41,51.099574966549,17.018596106426,0
+92,POP-WRO221,DUŻY BEN,Wrocław,wroclaw,Wojanowska,dolnośląskie,54-050,5,51.15457,16.89904,0
+93,POP-WRO222,DUŻY BEN,Wrocław,wroclaw,Kościuszki,dolnośląskie,50-439,122B,51.09978,17.04631,0
+94,POP-WRO223,DUŻY BEN,Wrocław,wroclaw,Tęczowa,dolnośląskie,53-602,22,51.10675,17.01907,0
+95,POP-WRO224,DUŻY BEN,Wrocław,wroclaw,Stalowa,dolnośląskie,53-440,63/LU1B,51.10157,17.00014,0
+96,POP-WRO225,DUŻY BEN,Wrocław,wroclaw,Grabiszyńska,dolnośląskie,53-236,287,51.09431,16.97829,0
+97,POP-WRO227,PUNKT OPŁAT. KSERO. PIECZĄTKI,Wrocław,wroclaw,Kotlarska,dolnośląskie,50-150,2A,51.111461003621,17.034496307373,0
+98,POP-WRO228,HAPPY PACK-SKLEP ZE ZDROWĄ ŻYWNOŚCIĄ,Wrocław,wroclaw,Żelazna,dolnośląskie,53-428,52,51.098754021302,17.005826130283,0
+99,POP-WRO229,HAPPY PACK-SKLEP Z BALONAMI,Wrocław,wroclaw,Cukrowa,dolnośląskie,52-316,13/20,51.063147226969,16.978410720825,0
+100,POP-WRO230,SERWIS FREZAREK,Wrocław,wroclaw,Kościuszki,dolnośląskie,50-439,152B,51.099250510802,17.049768107717,0
+101,POP-WRO231,HAPPY PACK-CENTRUM WYSYŁEK,Wrocław,wroclaw,Świeradowska,dolnośląskie,50-559,47 B,51.076742891432,17.040212558844,0
+102,POP-WRO232,A-HOBBY ELEKTRONIK,Wrocław,wroclaw,Krasińskiego,dolnośląskie,50-450,32,51.10619,17.0436,0
+103,POP-WRO25,FIRMA HANDLOWA BAKARD,Wrocław,wroclaw,Boguszowska,dolnośląskie,54-046,82,51.150467,16.892196,0
+104,POP-WRO30,SALONIK PRASOWY,Wrocław,wroclaw,Główna,dolnośląskie,54-061,69,51.16102,16.90586,0
+105,POP-WRO47,MBE MAIL BOX,Wrocław,wroclaw,Krakowska,dolnośląskie,50-428,141/155,51.08253,17.07546,0
+106,POP-WRO60,KWIACIARNIA,Wrocław,wroclaw,Bajana,dolnośląskie,54-129,43/1F,51.12764,16.96183,0
+107,POP-WRO85,MAIL BOXES,Wrocław,wroclaw,Jedności Narodowej,dolnośląskie,50-262,79,51.12068,17.04194,0
+108,POP-WRO95,SKLEP SPOŻYWCZO PRZEMYSŁOWY,Wrocław,wroclaw,Balzaka,dolnośląskie,52-437,22A,51.07643,16.95967,0
+109,POP-WRP95,EUROSPAR SKY TOWER,Wrocław,wroclaw,Powstańców Śląskich,dolnośląskie,53-332,95,51.09462,17.02068,0
+110,TOR01A,Parking Dworca Toruń Miasto,Toruń,torun,pl. 18 stycznia,kujawsko-pomorskie,87-100,4,53.01194,18.61954,0
+111,TOR01F,na stacji paliw MOYA,Toruń,torun,Polna,kujawsko-pomorskie,87-100,142,53.03934,18.6479,0
+112,TOR01L,Stacja paliw Shell,Toruń,torun,Grudziądzka,kujawsko-pomorskie,87-100,120,53.03038,18.61133,0
+113,TOR01M,Na parkingu przy administracji SM Rubinkowo,Toruń,torun,Dziewulskiego,kujawsko-pomorskie,87-100,8,53.02854,18.67145,0
+114,TOR02A,Przy markecie Twój Market,Toruń,torun,Legionów,kujawsko-pomorskie,87-100,27A,53.02033,18.60156,0
+115,TOR02M,Przy sklepie Sumik,Toruń,torun,Łyskowskiego,kujawsko-pomorskie,87-100,23,53.02848,18.66128,0
+116,TOR02N,Przy Dworcu Głównym,Toruń,torun,Kujawska,kujawsko-pomorskie,87-100,1,53.00103,18.61445,0
+117,TOR03A,Przy markecie Netto,Toruń,torun,Dąbrowskiego,kujawsko-pomorskie,87-100,26,53.01636,18.60692,0
+118,TOR03G,Posesja prywatna,Toruń,torun,Bartnicza,kujawsko-pomorskie,87-100,2,53.05757,18.56148,0
+119,TOR03M,Przy sklepie meblowym Lorens,Toruń,torun,Targowa,kujawsko-pomorskie,87-100,41,53.02248,18.63324,0
+120,TOR04A,Stacja paliw Awix,Toruń,torun,Poznańska,kujawsko-pomorskie,87-100,21,52.99531,18.60237,0
+121,TOR04M,Na parkingu Art Deco,Toruń,torun,Turystyczna,kujawsko-pomorskie,87-100,38,53.01451,18.68186,0
+122,TOR04N,Stacja paliw AMIC ENERGY,Toruń,torun,Bema,kujawsko-pomorskie,87-100,124,53.0139,18.5844,0
+123,TOR05M,Na stacji paliw Orlen,Toruń,torun,Słupska,kujawsko-pomorskie,87-100,1,53.03275,18.70366,0
+124,TOR05N,Stacja paliw AMIC ENERGY,Toruń,torun,Szosa Lubicka,kujawsko-pomorskie,87-100,176,53.02742,18.68604,0
+125,TOR06A,Przy sklepie Carrefour,Toruń,torun,Ludwika Ślaskiego,kujawsko-pomorskie,87-120,7,53.02415,18.67542,0
+126,TOR06M,Posesja prywatna,Toruń,torun,Jagiellońska,kujawsko-pomorskie,87-100,16,53.01926,18.613,0
+127,TOR06N,Przy parkingu firmy Sellmet,Toruń,torun,Mazowiecka,kujawsko-pomorskie,87-100,72,53.04401,18.62645,0
+128,TOR07A,Przy markecie Biedronka,Toruń,torun,Poznańska,kujawsko-pomorskie,87-100,190,52.98262,18.57388,0
+129,TOR07M,Parking Lidl,Toruń,torun,Lubicka,kujawsko-pomorskie,87-100,55,53.01685,18.63557,0
+130,TOR07N,Przy markecie Netto,Toruń,torun,Rydygiera,kujawsko-pomorskie,87-100,2,53.02414,18.65884,0
+131,TOR08A,Stacja paliw BP,Toruń,torun,Szosa Lubicka,kujawsko-pomorskie,87-100,109,53.0249,18.6643,0
+132,TOR08M,Na parkingu sklepu Lidl,Toruń,torun,Prüfferów,kujawsko-pomorskie,87-100,1,52.99465,18.60064,0
+133,TOR08N,Przy parkingu przy niepublicznym przedszkolu,Toruń,torun,Jęczmienna,kujawsko-pomorskie,87-100,4,53.01353,18.6109,0
+134,TOR09A,Na parkingu Żabki,Toruń,torun,Podgórna,kujawsko-pomorskie,87-100,30,53.02183,18.60165,0
+135,TOR09M,Na parkingu Piotr i Paweł od strony Wielkiego Rowu,Toruń,torun,Legionów,kujawsko-pomorskie,87-100,216F,53.03321,18.60252,0
+136,TOR10M,Parking przy Santander Bank,Toruń,torun,Grudziądzka,kujawsko-pomorskie,87-100,74-76,53.0237,18.6119,0
+137,TOR10N,pasaż handlowy Stacja Północ,Toruń,torun,Szosa Chełmińska,kujawsko-pomorskie,87-100,176,53.03312,18.58797,0
+138,TOR11A,Przy markecie Biedronka,Toruń,torun,Bażyńskich,kujawsko-pomorskie,87-100,20,53.02106,18.61564,0
+139,TOR11M,na parkingu Polomarketu,Toruń,torun,Słowackiego,kujawsko-pomorskie,87-100,100,53.01259,18.57911,0
+140,TOR11N,Przy aptece Różana,Toruń,torun,Olsztyńska,kujawsko-pomorskie,87-100,50,53.04033,18.69723,0
+141,TOR12A,Przy markecie Biedronka,Toruń,torun,Fałata,kujawsko-pomorskie,87-100,21,53.01499,18.57474,0
+142,TOR12M,Obok biblioteki,Toruń,torun,Słowackiego,kujawsko-pomorskie,87-100,8,53.01295,18.59615,0
+143,TOR12N,Przy markecie Decathlon,Toruń,torun,Żółkiewskiego,kujawsko-pomorskie,87-100,31,53.02313,18.64122,0
+144,TOR13M,Po lewej stronie od wejścia do Lidla,Toruń,torun,Gdańska,kujawsko-pomorskie,87-100,7-21,53.03579,18.69466,0
+145,TOR13N,Przy sklepie Żabka,Toruń,torun,Turystyczna,kujawsko-pomorskie,87-100,71,53.00663,18.69568,0
+146,TOR14A,Na parkingu Jarbass. wejście od ul. Łubinowej,Toruń,torun,Łubinowa,kujawsko-pomorskie,87-100,45C,53.04866,18.58486,0
+147,TOR14M,Na parkingu sklepu Lidl,Toruń,torun,Bażyńskich,kujawsko-pomorskie,87-100,20,53.02081,18.61451,0
+148,TOR14N,Przy hurtowni Expol,Toruń,torun,Polna,kujawsko-pomorskie,87-100,49,53.03747,18.62164,0
+149,TOR15A,Przy parkingu UMK na skrzyżowaniu ulicy Fredry i Krasińskiego,Toruń,torun,Fredry,kujawsko-pomorskie,87-100,1,53.01064,18.59518,0
+150,TOR15M,Na parkingu sklepu Lidl,Toruń,torun,Stawki Południowe,kujawsko-pomorskie,87-100,2-18,52.99093,18.63257,0
+151,TOR15N,Przy posesji prywatnej,Toruń,torun,Studzienna,kujawsko-pomorskie,87-100,7,53.0171,18.6341,0
+152,TOR16A,Na parkingu przy parking CUK,Toruń,torun,Kraszewskiego,kujawsko-pomorskie,87-100,27,53.01391,18.59147,0
+153,TOR16M,Na parkingu sklepu Lidl,Toruń,torun,Szosa Chełmińska,kujawsko-pomorskie,87-100,183-189,53.03284,18.58618,0
+154,TOR16N,Przy salonie BRW,Toruń,torun,Łódzka,kujawsko-pomorskie,87-100,42,52.9962,18.62474,0
+155,TOR17A,Po lewej stronie od wejścia do sklepu Pepco,Toruń,torun,Waryńskiego,kujawsko-pomorskie,87-100,13,53.01534,18.62186,0
+156,TOR17N,Przy sklepie spożywczym,Toruń,torun,Zdrojowa,kujawsko-pomorskie,87-100,8/10,52.97569,18.67778,0
+157,TOR18A,Przy Intermarche,Toruń,torun,Ugory,kujawsko-pomorskie,87-100,4,53.04191,18.59799,0
+158,TOR18M,Na parkingu sklepu Tesco,Toruń,torun,Reja,kujawsko-pomorskie,87-100,15,53.01298,18.57016,0
+159,TOR18N,Przy sklepie Żabka,Toruń,torun,Świętego Józefa,kujawsko-pomorskie,87-100,12,53.02139,18.58374,0
+160,TOR19M,Przy wjeździe na posesję,Toruń,torun,Klonowica,kujawsko-pomorskie,87-100,22A,53.01063,18.5823,0
+161,TOR19N,Przy zajeździe Stawki,Toruń,torun,Andersa,kujawsko-pomorskie,87-100,8,52.99177,18.62947,0
+162,TOR20M,Obok myjni samochodowej,Toruń,torun,Generała Karola Kniaziewicza,kujawsko-pomorskie,87-100,73,52.99485,18.61718,0
+163,TOR20N,Przy Stacji Kontroli Pojazdów,Toruń,torun,Polna,kujawsko-pomorskie,87-100,103-105,53.03752,18.63685,0
+164,TOR21M,Przy supermarkecie Torimpex,Toruń,torun,Leszczynowa,kujawsko-pomorskie,87-100,3,53.02659,18.65231,0
+165,TOR21N,Przy banku PKO SA i przychodni,Toruń,torun,Poznańska,kujawsko-pomorskie,87-100,59,52.99358,18.59559,0
+166,TOR22M,Przy sklepie spożywczym ABC,Toruń,torun,Szosa Chełmińska,kujawsko-pomorskie,87-100,140F,53.02843,18.59129,0
+167,TOR23M,Obok myjni Banieczka,Toruń,torun,Łódzka,kujawsko-pomorskie,87-100,31,52.99715,18.62488,0
+168,TOR23N,Przy Uniwersytecie Mikołaja Kopernika,Toruń,torun,Bojarskiego,kujawsko-pomorskie,87-100,2,53.02305,18.56767,0
+169,TOR24M,Przy PoloMarket,Toruń,torun,KWIATOWA,kujawsko-pomorskie,87-100,1,53.04295,18.58031,0
+170,TOR24N,Przy piekarni U Dziadka,Toruń,torun,Grudziądzka,kujawsko-pomorskie,87-100,81,53.0249,18.6111,0
+171,TOR25N,Przy Centrum Handlowym Kometa,Toruń,torun,Grudziądzka,kujawsko-pomorskie,87-100,162,53.03548,18.61424,0
+172,TOR26M,Przy markecie Torimpex,Toruń,torun,Kaliskiego,kujawsko-pomorskie,87-100,9,53.03373,18.59812,0
+173,TOR26N,Przy Kościele,Toruń,torun,Szosa Chełmińska,kujawsko-pomorskie,87-100,233,53.0414,18.58046,0
+174,TOR27M,Na parkingu sklepu Torimpex,Toruń,torun,Dziewulskiego,kujawsko-pomorskie,87-100,23,53.0285,18.67411,0
+175,TOR27N,Przy Biurze Ogłoszeń Nowości,Toruń,torun,Konstytucji 3 maja,kujawsko-pomorskie,87-100,22A,53.0227,18.6821,0
+176,TOR28M,Przy markecie Torimpex,Toruń,torun,Jeśmanowicza,kujawsko-pomorskie,87-100,2,53.02586,18.61232,0
+177,TOR28N,Przy piekarni Piekuś Drive,Toruń,torun,Watzenrodego,kujawsko-pomorskie,87-100,2,53.04102,18.60012,0
+178,TOR29M,Na parkingu Kaufland,Toruń,torun,gen. Józefa Bema,kujawsko-pomorskie,87-100,44-58,53.01689,18.58941,0
+179,TOR29N,Przy sklepie Aldi,Toruń,torun,Legionów,kujawsko-pomorskie,87-100,222A,53.03577,18.59952,0
+180,TOR30M,Przy Pepco,Toruń,torun,Łódzka,kujawsko-pomorskie,87-100,118,52.99221,18.63072,0
+181,TOR30N,parking Pasażu Cegielnia przy wejściu do cukierni,Toruń,torun,Ceramiczna,kujawsko-pomorskie,87-100,2,53.04764,18.70087,0
+182,TOR31M,Przy markecie LIDL,Toruń,torun,Niesiołowskiego,kujawsko-pomorskie,87-100,25,53.03105,18.67687,0
+183,TOR31N,Przy sklepie Żabka,Toruń,torun,Grabowa,kujawsko-pomorskie,87-100,12,53.02318,18.65027,0
+184,TOR32M,Na parkingu,Toruń,torun,Żółkiewskiego,kujawsko-pomorskie,87-100,5,53.02423,18.63551,0
+185,TOR32N,Przy sklepie sieci Żabka,Toruń,torun,Mickiewicza,kujawsko-pomorskie,87-100,116,53.01201,18.5767,0
+186,TOR33M,przed wejściem na targowisko miejskie,Toruń,torun,Szosa Chełmińska,kujawsko-pomorskie,87-100,31/35,53.01735,18.60004,0
+187,TOR33N,Przy markecie Torimpex,Toruń,torun,Ligi Polskiej,kujawsko-pomorskie,87-100,12,53.02414,18.68719,0
+188,TOR34M,na parkingu Toruń Plaza,Toruń,torun,Broniewskiego,kujawsko-pomorskie,87-100,90,53.01529,18.56322,0
+189,TOR35M,na parkingu,Toruń,torun,Kosynierów Kościuszkowskich,kujawsko-pomorskie,87-100,13,53.02491,18.69569,0
+190,TOR36M,przy myjni bezdotykowej,Toruń,torun,Szosa Chełmińska,kujawsko-pomorskie,87-100,212,53.03778,18.58416,0
+191,TOR37M,przy myjni Avez Car Wash,Toruń,torun,Dziewulskiego,kujawsko-pomorskie,87-100,43,53.02758,18.68118,0
+192,TOR38M,Przy ulicy Stromej,Toruń,torun,Rybaki,kujawsko-pomorskie,87-100,43,53.00872,18.5858,0
+193,TOR39M,na parkingu Lidl,Toruń,torun,Rydygiera,kujawsko-pomorskie,87-100,50,53.02961,18.64451,0
+194,TOR40M,na parkingu samochodowym po prawej stronie od wjazdu,Toruń,torun,Plac Świętej Katarzyny,kujawsko-pomorskie,87-100,,53.01361,18.61307,0
+195,TOR41M,przy pawilonie Maciej,Toruń,torun,Konstytucji 3 Maja,kujawsko-pomorskie,87-100,10,53.02327,18.67674,0
+196,TOR42M,na parkingu Polomarket,Toruń,torun,Świętopełka,kujawsko-pomorskie,87-100,13,53.02553,18.61693,0
+197,TOR43M,na parkingu Polomarket,Toruń,torun,Poznańska,kujawsko-pomorskie,87-100,69,52.99372,18.59397,0
+198,TOR44M,na parkingu Polomarket,Toruń,torun,Gagarina,kujawsko-pomorskie,87-100,34B,53.01775,18.56425,0
+199,TOR45M,obok sklepu Livio,Toruń,torun,Narcyzowa,kujawsko-pomorskie,87-100,80C,53.04889,18.58427,0
+200,TOR46M,na pasażu po lewej stronie od myjni,Toruń,torun,Ceramiczna,kujawsko-pomorskie,87-100,2,53.04698,18.69991,0
+201,TOR47M,Przy sklepie spożywczym,Toruń,torun,Powstańców Śląskich,kujawsko-pomorskie,87-100,96,52.99492,18.62372,0
+202,TOR48M,Przy targowisku,Toruń,torun,Zygmunta Działowskiego,kujawsko-pomorskie,87-100,87,53.02557,18.66716,0
+203,TOR49M,przy bloku nr 2,Toruń,torun,Hubego,kujawsko-pomorskie,87-100,2,53.0471,18.60229,0
+204,TOR50M,obok Żabki,Toruń,torun,Wybickiego,kujawsko-pomorskie,87-100,98,53.02564,18.59083,0
+205,TOR51M,na parkingu przy Veyna,Toruń,torun,Szubińska,kujawsko-pomorskie,87-100,14,52.97651,18.5634,0
+206,TOR525,Stacja paliw BP,Toruń,torun,Szosa Bydgoska,kujawsko-pomorskie,87-100,30,53.0132,18.56153,0
+207,TOR52M,przy bloku nr 42,Toruń,torun,Solankowa,kujawsko-pomorskie,87-100,42,52.98335,18.68374,0
+208,TOR53M,na parkingu sklepu,Toruń,torun,Św. Wojciecha,kujawsko-pomorskie,87-100,12,52.99691,18.62181,0
+209,TOR54M,przy furtce od strony ulicy Letniej,Toruń,torun,Okólna,kujawsko-pomorskie,87-100,1,52.99067,18.59662,0
+210,TOR55M,przy markecie Aldi,Toruń,torun,Wapienna,kujawsko-pomorskie,87-100,1,53.05092,18.70536,0
+211,TOR56M,pod arkadami budynku od ulicy Osmańskiego,Toruń,torun,Bema,kujawsko-pomorskie,87-100,23/29,53.01938,18.59208,0
+212,TOR57M,pod ścianą hali od ulicy,Toruń,torun,Przy Skarpie,kujawsko-pomorskie,87-100,4,53.0189,18.67265,0
+213,TOR58M,w linii ogrodzenia od Gagarina,Toruń,torun,Gagarina,kujawsko-pomorskie,87-100,19,53.01786,18.57564,0
+214,TOR59M,przy parkingu od ulicy,Toruń,torun,Chrobrego,kujawsko-pomorskie,87-100,27A,53.01961,18.62234,0
+215,TOR60M,trawnik przed uczelnią,Toruń,torun,Młodzieżowa,kujawsko-pomorskie,87-100,31A,53.01982,18.60741,0
+216,TOR61M,przy parkingu boiska,Toruń,torun,63 Pułku Piechoty,kujawsko-pomorskie,87-100,47/61,52.99222,18.60618,0
+217,TOR62M,Przy budynku głównym. na wjeździe na przystań,Toruń,torun,Popiełuszki,kujawsko-pomorskie,87-100,1,53.00718,18.59479,0
+218,TOR64M,przy ogrodzeniu kortów od ulicy Reja,Toruń,torun,Mikołaja Reja,kujawsko-pomorskie,87-100,1,53.01122,18.57113,0
+219,TOR65M,Parking przed budynkiem Mosir,Toruń,torun,Szosa Chełmińska,kujawsko-pomorskie,87-100,75,53.0221,18.59311,0
+220,TOR66M,Market Dino,Toruń,torun,Okólna,kujawsko-pomorskie,87-100,103,52.99162,18.62596,0
+221,TOR67M,przy InZen Floating,Toruń,torun,Pigwowa,kujawsko-pomorskie,87-100,7,53.05072,18.57298,0
+222,TOR68M,przy budynku,Toruń,torun,Koniuchy,kujawsko-pomorskie,87-100,7,53.03214,18.60946,0
+223,TOR69M,Na parkingu biurowca,Toruń,torun,Grudziądzka,kujawsko-pomorskie,87-100,110,53.02887,18.61226,0
+224,TOR70M,Przedszkole,Toruń,torun,Renklodowa,kujawsko-pomorskie,87-100,2,53.05377,18.58725,0
+225,TOR71M,Przy parkingu biurowca,Toruń,torun,Polna,kujawsko-pomorskie,87-100,7B,53.03886,18.59779,0
+226,TOR72M,Posesja prywatna,Toruń,torun,Borowiacka,kujawsko-pomorskie,87-100,8,53.02587,18.58749,0
+227,TOR73M,Stacja Shell,Toruń,torun,Kościuszki,kujawsko-pomorskie,87-100,76,53.02434,18.62666,0
+228,WRO01APP,Obok kawiarni,Wrocław,wroclaw,Kominiarska,dolnośląskie,51-180,97,51.17714,17.01551,0
+229,WRO01F,Przy Vege Boxie,Wrocław,wroclaw,Bierutowska,dolnośląskie,51-317,57-59,51.15118,17.12698,0
+230,WRO01H,W lokalu użytkowym,Wrocław,wroclaw,Grabiszyńska,dolnośląskie,53-437,141,51.09972,17.00039,0
+231,WRO01HO,W środku Hali Targowej. obok sklepu rybnego "Tradycja i Jakość",Wrocław,wroclaw,Piaskowa,dolnośląskie,50-158,17,51.1123,17.04064,0
+232,WRO01HP,W sklepie Duży Ben,Wrocław,wroclaw,Sienkiewicza,dolnośląskie,50-346,131,51.11498,17.06679,0
+233,WRO01L,Stacja paliw BP,Wrocław,wroclaw,Krakowska,dolnośląskie,50-425,6/7,51.09574,17.0562,0
+234,WRO01M,Po lewej stronie od wejścia do budynku stacji paliw Pieprzyk,Wrocław,wroclaw,Armii Krajowej,dolnośląskie,50-541,49,51.0828,17.0596,0
+235,WRO01W,Po prawej stronie od wejścia do hali kupców Perła,Wrocław,wroclaw,Widna,dolnośląskie,50-543,6,51.08336,17.04491,0
+236,WRO02A,Stacja paliw Shell,Wrocław,wroclaw,Ślężna,dolnośląskie,53-111,144,51.07949,17.02101,0
+237,WRO02B,Stacja paliw AMIC ENERGY,Wrocław,wroclaw,Toruńska,dolnośląskie,51-414,73,51.13063,17.07807,0
+238,WRO02H,lokal wejscie od ulicy Wszystkich Świetych,Wrocław,wroclaw,Wszystkich Świętych,dolnośląskie,50-136,13,51.11204,17.0242,0
+239,WRO02HO,Przy głównym wejściu. obok apteki,Wrocław,wroclaw,Powstańców Śląskich,dolnośląskie,53-332,96,51.09392,17.01903,0
+240,WRO02HP,W sklepie Duży Ben,Wrocław,wroclaw,Więckowskiego,dolnośląskie,50-431,16,51.09842,17.05308,0
+241,WRO02L,Przy stacji paliw Shell,Wrocław,wroclaw,Brucknera,dolnośląskie,51-411,53-55,51.13825,17.08227,0
+242,WRO02M,Po prawej stronie za wjazdem na parking,Wrocław,wroclaw,Żółta,dolnośląskie,54-043,1,51.14518,16.88285,0
+243,WRO02N,Przy sklepie Społem Południe,Wrocław,wroclaw,Pilczycka,dolnośląskie,54-150,140,51.1406,16.95811,0
+244,WRO02W,Myjnia bezdotykowa 24h,Wrocław,wroclaw,Miłoszycka,dolnośląskie,51-502,97,51.12221,17.12093,0
+245,WRO03A,Stacja paliw Shell,Wrocław,wroclaw,Obornicka,dolnośląskie,51-114,64,51.1387,17.02821,0
+246,WRO03APP,Na rogu ulic Okulickiego/Odrodzenia Polski,Wrocław,wroclaw,Okulickiego 29,dolnośląskie,51-216,Wrocław,51.16386,17.12619,0
+247,WRO03B,Stacji paliw BP,Wrocław,wroclaw,al. Karkonoska,dolnośląskie,53-015,63,51.06093,16.99374,0
+248,WRO03H,Lokal użytkowy,Wrocław,wroclaw,Słubicka,dolnośląskie,53-615,20,51.11846,17.00063,0
+249,WRO03HO,Poziom -1 przy wyjściu z parkingu .koło sklepu Action,Wrocław,wroclaw,Powstańców Śląskich,dolnośląskie,53-333,2-4,51.0995,17.02893,0
+250,WRO03HP,W sklepie Duży Ben,Wrocław,wroclaw,Ameriga Vespucciego,dolnośląskie,51-505,26A,51.10704,17.12325,0
+251,WRO03L,Stacja paliw Shell,Wrocław,wroclaw,Żmigrodzka,dolnośląskie,51-130,105/117,51.14412,17.03228,0
+252,WRO03W,Przy Centrum Handlowym Galaktyka od ulicy Wiktora Brossa,Wrocław,wroclaw,Ślężna,dolnośląskie,53-111,130-134,51.08029,17.02303,0
+253,WRO04A,Przy MSM Energetyk,Wrocław,wroclaw,Gajowicka,dolnośląskie,53-150,177,51.08542,17.00402,0
+254,WRO04APP,Przy parkingu samochodowym,Wrocław,wroclaw,Celtycka,dolnośląskie,54-153,5,51.13796,16.97967,0
+255,WRO04H,W lokalu użytkowym,Wrocław,wroclaw,Nowowiejska,dolnośląskie,50-314,26,51.12396,17.04799,0
+256,WRO04HO,Pasaż z parkingu +1. CH Magnolia,Wrocław,wroclaw,Legnicka,dolnośląskie,54-204,58,51.11853,16.98921,0
+257,WRO04HP,W sklepie Duży Ben,Wrocław,wroclaw,Pereca,dolnośląskie,53-444,12,51.09979,17.008,0
+258,WRO04L,Stacja paliw Shell,Wrocław,wroclaw,Gubińska,dolnośląskie,54-434,6,51.11336,16.95821,0
+259,WRO04M,Na terenie biurowca Kaufland od ulicy Ziębickiej PN-SB 6:00-19:30,Wrocław,wroclaw,al. Armii Krajowej,dolnośląskie,50-541,47,51.08195,17.05384,0
+260,WRO04N,Stacja paliw Lotos,Wrocław,wroclaw,Trzebnicka,dolnośląskie,50-231,39,51.13039,17.03755,0
+261,WRO04W,Po prawej stronie od wejścia do supermarketu,Wrocław,wroclaw,Hermanowska,dolnośląskie,54-314,59,51.1244,16.95,0
+262,WRO05A,Przy SM Energetyk,Wrocław,wroclaw,Sokola,dolnośląskie,53-150,49,51.08252,17.0076,0
+263,WRO05B,Przy sklepie Społem Północ,Wrocław,wroclaw,Osobowicka,dolnośląskie,51-004,133,51.14388,16.98787,0
+264,WRO05H,W lokalu,Wrocław,wroclaw,Śrutowa,dolnośląskie,50-257,6,51.11763,17.03405,0
+265,WRO05HO,CH RENOMA poziom handlowy -1 koło Kantoru,Wrocław,wroclaw,Świdnicka,dolnośląskie,50-024,40,51.1037,17.03153,0
+266,WRO05HP,W sklepie Duży Ben,Wrocław,wroclaw,Architektów,dolnośląskie,54-115,14D,51.13632,16.92841,0
+267,WRO05M,Na terenie myjni,Wrocław,wroclaw,Małopanewska,dolnośląskie,54-217,13,51.12194,16.98589,0
+268,WRO05N,Przy markecie Kaufland,Wrocław,wroclaw,Ślężna,dolnośląskie,53-302,44/46,51.09284,17.03076,0
+269,WRO05W,Przy cukierni JS Jaworscy,Wrocław,wroclaw,Świstackiego,dolnośląskie,50-430,5,51.0984,17.05048,0
+270,WRO06A,Przy pasażu handlowym Czerwona Torebka,Wrocław,wroclaw,Kiełczowska,dolnośląskie,51-315,60,51.14621,17.13341,0
+271,WRO06APP,Przy wyjeździe z dziedzińca,Wrocław,wroclaw,Plac Grunwaldzki,dolnośląskie,50-365,23,51.11096,17.06192,0
+272,WRO06B,Przy sklepie Społem,Wrocław,wroclaw,Kraszewskiego,dolnośląskie,50-229,21,51.12898,17.03302,0
+273,WRO06H,W lokalu,Wrocław,wroclaw,Buforowa,dolnośląskie,52-131,49,51.06052,17.05547,0
+274,WRO06HO,Na poziomie -1 przy wejściu do toalet,Wrocław,wroclaw,Plac Dominikański,dolnośląskie,50-159,3,51.108,17.04041,0
+275,WRO06HP,W sklepie Duży Ben,Wrocław,wroclaw,Benedykta Polaka,dolnośląskie,50-379,14,51.11196,17.05504,0
+276,WRO06L,Przy SM Południe,Wrocław,wroclaw,Borowska,dolnośląskie,50-566,114,51.08526,17.03609,0
+277,WRO06M,Po prawej stronie od wejścia do apteki Millenium,Wrocław,wroclaw,Fromborska,dolnośląskie,54-111,47,51.1497,16.943,0
+278,WRO06N,Przy Centrum Handlowym Arena,Wrocław,wroclaw,Komandorska,dolnośląskie,53-343,66,51.09488,17.02832,0
+279,WRO06W,Przy sklepie spożywczym,Wrocław,wroclaw,Pełczyńska,dolnośląskie,51-180,63,51.16945,16.99722,0
+280,WRO07A,Przy stacji Shell,Wrocław,wroclaw,Krakowska,dolnośląskie,50-426,70/80,51.09191,17.063,0
+281,WRO07H,W lokalu użytkowym,Wrocław,wroclaw,Pigwowa,dolnośląskie,53-006,2,51.05885,17.01494,0
+282,WRO07HO,Przy kasach sklepu Społem,Wrocław,wroclaw,Szklarska,dolnośląskie,54-138,28,51.13323,16.95774,0
+283,WRO07HP,W sklepie Duży Ben,Wrocław,wroclaw,Dziadoszańska,dolnośląskie,54-153,50,51.13748,16.9797,0
+284,WRO07L,Budynek handlowy przy s.m. Południe,Wrocław,wroclaw,Widna,dolnośląskie,50-543,17,51.08505,17.0447,0
+285,WRO07M,Po prawej stronie od wejścia do Pasażu,Wrocław,wroclaw,Mińska,dolnośląskie,54-610,58A,51.1043,16.94649,0
+286,WRO07W,Na terenie Osiedla. przy klatce numer 9,Wrocław,wroclaw,Pionierów,dolnośląskie,52-112,9,51.06723,17.08081,0
+287,WRO08A,Stacja paliw BP,Wrocław,wroclaw,Grabiszyńska,dolnośląskie,53-501,266,51.0939,16.979,0
+288,WRO08APP,Z prawej strony posesji,Wrocław,wroclaw,Ukraińska,dolnośląskie,54-401,8,51.111821933,16.962951435,0
+289,WRO08HP,W sklepie Duży Ben,Wrocław,wroclaw,Wojaczka,dolnośląskie,51-169,1/1B,51.14625,17.072378,0
+290,WRO08L,Przy siedziebie wspólnoty,Wrocław,wroclaw,Krynicka,dolnośląskie,50-555,4,51.08221,17.04642,0
+291,WRO08N,Przy sklepie Stokrotka. przodem do parkingu.,Wrocław,wroclaw,Sielska,dolnośląskie,54-144,3,51.14021,16.96273,0
+292,WRO08W,Market Dino,Wrocław,wroclaw,Księgarska,dolnośląskie,51-180,2,51.17461,17.02228,0
+293,WRO09A,Przy galerii wnętrz DOMAR,Wrocław,wroclaw,Braniborska,dolnośląskie,53-680,14,51.11017,17.01523,0
+294,WRO09B,Przy osiedlowym sklepie Żabka,Wrocław,wroclaw,Okulickiego,dolnośląskie,51-212,19,51.16267,17.12523,0
+295,WRO09H,W lokalu,Wrocław,wroclaw,Orzechowa,dolnośląskie,50-540,108,51.07863,17.0451,0
+296,WRO09M,Na parkingu przy biurowcu,Wrocław,wroclaw,Strachocińska,dolnośląskie,51-511,53,51.10914,17.13844,0
+297,WRO09N,Przy Aptece Lege Artis,Wrocław,wroclaw,Grota-Roweckiego,dolnośląskie,52-232,76,51.06235,17.03271,0
+298,WRO09W,Przy wyjściu na podwórze,Wrocław,wroclaw,Bieńkowskiego,dolnośląskie,54-115,22,51.13485,16.92427,0
+299,WRO100M,Na osiedlu,Wrocław,wroclaw,Wielka,dolnośląskie,53-338,59,51.09161,17.02448,0
+300,WRO101M,Od ulicy Rękodzielniczej,Wrocław,wroclaw,Górnicza,dolnośląskie,54-150,48,51.1364,16.95729,0
+301,WRO103M,Przy parkingu obok Żabki.,Wrocław,wroclaw,Czekoladowa,dolnośląskie,52-326,58A,51.0594,16.974,0
+302,WRO104M,Przy posesji prywatnej. na wprost bramki wejściowej.,Wrocław,wroclaw,Morelowskiego,dolnośląskie,52-429,18,51.0728,16.9708,0
+303,WRO105M,Na wjeździe do biurowca,Wrocław,wroclaw,Skargi,dolnośląskie,50-082,3,51.10623,17.03805,0
+304,WRO106M,Przy biurowcu,Wrocław,wroclaw,Borowska,dolnośląskie,50-558,272,51.07135,17.03374,0
+305,WRO107M,W ogrodzeniu parkingu od strony osiedla,Wrocław,wroclaw,Poleska,dolnośląskie,51-354,48,51.14336,17.12853,0
+306,WRO108M,Przy Lidlu,Wrocław,wroclaw,Strachocińska,dolnośląskie,51-518,180,51.10272,17.15796,0
+307,WRO109M,Po lewej stronie budynku. przy chodniku,Wrocław,wroclaw,Fabryczna,dolnośląskie,53-609,29-31,51.1128,16.98121,0
+308,WRO10B,Przy Centrum Handlowyn Borek,Wrocław,wroclaw,al. Hallera,dolnośląskie,53-324,52,51.08927,16.9997,0
+309,WRO10H,W lokalu użytkowym,Wrocław,wroclaw,Klecińska,dolnośląskie,54-412,138,51.10624,16.96961,0
+310,WRO10L,Stacja paliw Shell,Wrocław,wroclaw,Kamienna,dolnośląskie,50-545,145,51.08545,17.04597,0
+311,WRO10M,Na terenie stacji paliw Lotos,Wrocław,wroclaw,Awicenny,dolnośląskie,52-405,47,51.08132,16.95607,0
+312,WRO10N,Przy sklepie spożywczym ABC,Wrocław,wroclaw,Mrągowska,dolnośląskie,54-107,4,51.15113,16.94066,0
+313,WRO10W,Przy siedzibie wspólnoty mieszkaniowej,Wrocław,wroclaw,Zemska,dolnośląskie,54-438,35,51.11635,16.94855,0
+314,WRO110M,Po prawej stronie od wejścia do sklepu,Wrocław,wroclaw,Górnośląska,dolnośląskie,52-019,2B,51.07435,17.08581,0
+315,WRO111M,Po prawej stronie od wjazdu,Wrocław,wroclaw,Wietrzna,dolnośląskie,53-024,10,51.07233,16.9976,0
+316,WRO112M,na parkingu Novotel Wrocław City,Wrocław,wroclaw,Wyścigowa,dolnośląskie,53-011,35,51.0692,17.00747,0
+317,WRO113M,Przy posesji,Wrocław,wroclaw,Karkonoska,dolnośląskie,53-015,31,51.0696,17.0047,0
+318,WRO114M,Po lewej stronie od wejścia do sklepu,Wrocław,wroclaw,Wielkopolska,dolnośląskie,54-027,19-21,51.1411,16.8859,0
+319,WRO115M,Po prawej stronie od wjazdu na teren LIDLa,Wrocław,wroclaw,Buforowa,dolnośląskie,52-131,5/9,51.0688,17.056,0
+320,WRO116M,Po lewej stronie od posesji,Wrocław,wroclaw,Kamiennogórska,dolnośląskie,54-034,5,51.1415,16.9,0
+321,WRO117M,Przy skrzyżowaniu ulic Rumiankowej i M. Przybyły.,Wrocław,wroclaw,Rumiankowa,dolnośląskie,54-512,74,51.1211,16.9164,0
+322,WRO118M,Na terenie wspólnoty mieszkaniowej GAJ,Wrocław,wroclaw,Strońska,dolnośląskie,50-538,22,51.07288,17.04112,0
+323,WRO11A,Stacja paliw Circle K,Wrocław,wroclaw,Braniborska,dolnośląskie,53-680,84,51.11164,17.00621,0
+324,WRO11B,Parking SM Księże Małe,Wrocław,wroclaw,Tarnogórska,dolnośląskie,52-021,1,51.0749962031,17.086201171,0
+325,WRO11L,Stacja paliw Shell,Wrocław,wroclaw,Mińska,dolnośląskie,54-610,41,51.10596,16.95048,0
+326,WRO11M,Przed sklepem Ride Now,Wrocław,wroclaw,Aleja Wiśniowa,dolnośląskie,53-137,3,51.08593,17.01304,0
+327,WRO11N,Przy Budoskładzie,Wrocław,wroclaw,Grota-Roweckiego,dolnośląskie,52-214,168,51.05219,17.03178,0
+328,WRO121M,Po lewej stronie od szlabanu,Wrocław,wroclaw,Powstańców Śląskich,dolnośląskie,53-138,185,51.08214,17.00876,0
+329,WRO122M,Przy wyjeżdzie z parkingu podziemnego Galerii i Hotelu,Wrocław,wroclaw,Pl. Dominikański,dolnośląskie,50-159,1,51.10892,17.03996,0
+330,WRO123M,Przy wjeździe na podwórze,Wrocław,wroclaw,Cybulskiego,dolnośląskie,50-206,7,51.1166,17.03233,0
+331,WRO124M,Na terenie osiedla,Wrocław,wroclaw,Zatorska,dolnośląskie,51-215,43,51.15935,17.13711,0
+332,WRO125M,Na terenie działki,Wrocław,wroclaw,Wandy Rutkiewicz,dolnośląskie,50-561,34,51.07329,17.03791,0
+333,WRO126M,Na osiedlu,Wrocław,wroclaw,Grudziądzka,dolnośląskie,51-165,103,51.13747,17.07848,0
+334,WRO127M,Na osiedlu,Wrocław,wroclaw,Zaułek Rogoziński,dolnośląskie,51-116,11A,51.14088,17.03062,0
+335,WRO128M,Przy siedzibie spółdzielni,Wrocław,wroclaw,Łódzka,dolnośląskie,50-523,19,51.09117,17.03752,0
+336,WRO12A,Przy Centrum Handlowym Astra,Wrocław,wroclaw,Horbaczewskiego,dolnośląskie,54-130,4-6,51.12652,16.9749,0
+337,WRO12B,Przy drogerii Rossmann,Wrocław,wroclaw,Kiełczowska,dolnośląskie,51-315,70,51.14592,17.13509,0
+338,WRO12M,Przy sklepie Black Red White,Wrocław,wroclaw,Czekoladowa,dolnośląskie,55-040,24,51.04832,16.96516,0
+339,WRO12N,Przy sklepie Żabka,Wrocław,wroclaw,Olszewskiego,dolnośląskie,51-631,17A,51.10304,17.09507,0
+340,WRO130M,Przy Żabce w Bramie,Wrocław,wroclaw,Pomorska,dolnośląskie,50-216,9,51.11684,17.03207,0
+341,WRO131M,Przy garażu podziemnym,Wrocław,wroclaw,Zielińskiego,dolnośląskie,53-533,59,51.0982,17.01986,0
+342,WRO132M,Na przeciwko biedronki,Wrocław,wroclaw,Sułowska,dolnośląskie,51-180,11A,51.16905,17.02543,0
+343,WRO133M,Przy budynku stacji Lotos,Wrocław,wroclaw,Pełczyńska,dolnośląskie,51-180,5/7,51.16071,17.00702,0
+344,WRO136M,Po prawej stronie od wejścia.,Wrocław,wroclaw,Mińska,dolnośląskie,54-610,36,51.1021,16.9434,0
+345,WRO137M,Przy ulicy Łomnickiej 12,Wrocław,wroclaw,Łomnicka,dolnośląskie,54-061,12,51.1608,16.9085,0
+346,WRO138M,Na rogu ulic Racławicka i Jastrzębia,Wrocław,wroclaw,Jastrzębia,dolnośląskie,53-148,14,51.08472,17.00763,0
+347,WRO139M,na osiedlu,Wrocław,wroclaw,Czerniawska,dolnośląskie,50-576,3,51.07635,17.0391,0
+348,WRO13B,przy skrzyżowaniu ulicy Starodębowej z Jeziorową,Wrocław,wroclaw,Jeziorowa,dolnośląskie,51-251,1,51.16606,17.10238,0
+349,WRO13L,Stacja paliw BP,Wrocław,wroclaw,pl. Grunwaldzki,dolnośląskie,50-337,34,51.11449,17.069,0
+350,WRO13M,Przy przedszkolu,Wrocław,wroclaw,Stoczniowa,dolnośląskie,51-218,12A,51.16283,17.13076,0
+351,WRO13N,Przy sklepie Marysieńka,Wrocław,wroclaw,Oleska,dolnośląskie,51-200,5,51.15957,17.13376,0
+352,WRO140M,Przy siedzibie TBS,Wrocław,wroclaw,Tylna,dolnośląskie,51-313,14,51.14582,17.11311,0
+353,WRO141M,Przy placu zabaw,Wrocław,wroclaw,Kamieńskiego,dolnośląskie,51-126,200,51.15497,17.04254,0
+354,WRO142M,Przy budynku 10A,Wrocław,wroclaw,Da Vinci,dolnośląskie,52-112,10A,51.06583,17.07733,0
+355,WRO143M,Przy parkingu,Wrocław,wroclaw,Rodzynkowa,dolnośląskie,54-054,2,51.15474,16.89407,0
+356,WRO144M,Przy warsztacie samochodowym,Wrocław,wroclaw,Żmigrodzka,dolnośląskie,51-130,75,51.14062,17.03265,0
+357,WRO145M,Po lewej stronie budynku. przy przystanku.,Wrocław,wroclaw,Jeleniogórska,dolnośląskie,54-056,14,51.1463,16.8764,0
+358,WRO147M,Przed sklepem od ul. Fromborskiej.,Wrocław,wroclaw,Mrągowska,dolnośląskie,54-107,4,51.1511,16.9408,0
+359,WRO148M,Po lewej stronie od wjazdu na parking.,Wrocław,wroclaw,Sołtysowicka,dolnośląskie,51-168,62a,51.1507,17.0766,0
+360,WRO149M,Przy drodze.,Wrocław,wroclaw,Dożynkowa,dolnośląskie,52-311,9,51.0669,16.9825,0
+361,WRO14L,Stacja paliw BP,Wrocław,wroclaw,Kromera,dolnośląskie,51-163,16,51.13195,17.06256,0
+362,WRO14M,Po lewej od strony wejścia.,Wrocław,wroclaw,Na ostatnim groszu,dolnośląskie,54-207,98A,51.12138,16.97541,0
+363,WRO14N,Przy markecie Bricomarche,Wrocław,wroclaw,Królewiecka,dolnośląskie,54-117,68,51.15725,16.92255,0
+364,WRO151M,Przy klatce nr 63.,Wrocław,wroclaw,Pałucka,dolnośląskie,54-153,65,51.13762,16.97737,0
+365,WRO152M,Przy komisie samochodowym,Wrocław,wroclaw,Miłoszycka,dolnośląskie,51-502,11a,51.11586,17.12887,0
+366,WRO153M,Przy wejściu do budynku od Komandorskiej,Wrocław,wroclaw,Piłsudskiego,dolnośląskie,50-019,69/73,51.1007,17.03124,0
+367,WRO154M,Na rogu sienkiewicza/reja,Wrocław,wroclaw,Sienkiewicza,dolnośląskie,50-337,75,51.1159,17.05777,0
+368,WRO155M,Przy ulicy Reja,Wrocław,wroclaw,Reja,dolnośląskie,50-338,36,51.11689,17.05806,0
+369,WRO156M,Wjazd na myjnię,Wrocław,wroclaw,Pełczyńska,dolnośląskie,51-180,40,51.16603,16.9983,0
+370,WRO157M,Przy warsztacie samochodowym,Wrocław,wroclaw,Swojczycka,dolnośląskie,51-502,76,51.11353,17.1204,0
+371,WRO158M,Przy Szklarni,Wrocław,wroclaw,Nefrytowa,dolnośląskie,52-215,44,51.04877,17.02364,0
+372,WRO159M,Po lewej stronie od głównego wejścia do biurowca Cu Office,Wrocław,wroclaw,Jaworska,dolnośląskie,53-612,11-13,51.11581,16.99424,0
+373,WRO15A,Przy wejściu nr 1 do Pasażu Zielińskiego od strony ul.Zielińskiego,Wrocław,wroclaw,Swobodna,dolnośląskie,50-088,37,51.10064,17.02416,0
+374,WRO15L,Stacja paliw Shell,Wrocław,wroclaw,Małopanewska,dolnośląskie,54-212,2,51.1228,16.98793,0
+375,WRO15M,Przy Pepco,Wrocław,wroclaw,Popowicka,dolnośląskie,54-238,134A,51.12848,16.98934,0
+376,WRO15N,Przy sklepie Grosik,Wrocław,wroclaw,Białowieska,dolnośląskie,54-234,13A,51.12379,16.99299,0
+377,WRO160M,Na parkingu przed sklepem,Wrocław,wroclaw,Zielińskiego,dolnośląskie,53-533,61,51.09801,17.01929,0
+378,WRO161M,Przy wjeździe do parkingu podziemnego,Wrocław,wroclaw,Na Ostatnim Groszu,dolnośląskie,54-207,3,51.1254,16.976,0
+379,WRO162M,Przy budynku Margaret Catering,Wrocław,wroclaw,Zemska,dolnośląskie,54-438,44A,51.11581,16.94904,0
+380,WRO163M,Przy pawilonie Pierogarni,Wrocław,wroclaw,Rogowska,dolnośląskie,54-440,62A,51.11903,16.95074,0
+381,WRO165M,Przed sklepem Ponik,Wrocław,wroclaw,Bałtycka,dolnośląskie,51-120,1,51.13831,17.03256,0
+382,WRO166M,Przy Myjni,Wrocław,wroclaw,Międzyleska,dolnośląskie,50-514,6b,51.08038,17.06862,0
+383,WRO167M,Przy sklepie Aldi na parkingu,Wrocław,wroclaw,Grabiszyńska,dolnośląskie,53-439,167,51.09887,16.99491,0
+384,WRO168M,Przy skrzyżowaniu ulic Kurpiów/Grota-Roweckiego,Wrocław,wroclaw,Kurpiów,dolnośląskie,52-214,4,51.05033,17.03043,0
+385,WRO169M,Parking przy kamienicy Biurowej . wejście od Podwale lub od Dworcowej,Wrocław,wroclaw,Podwale,dolnośląskie,50-010,62,51.10263,17.03828,0
+386,WRO16A,Przy markecie POLOmarket,Wrocław,wroclaw,Budziszyńska,dolnośląskie,54-438,107,51.113053,16.95422,0
+387,WRO16L,Przy markecie Stokrotka,Wrocław,wroclaw,Krzemieniecka,dolnośląskie,54-613,125,51.09737,16.95049,0
+388,WRO16N,Przy parkingu Spółdzielni Mieszkaniowej Rolbud (zwrócony w stronę parkingu),Wrocław,wroclaw,Wiejska,dolnośląskie,52-437,,51.07829,16.95871,0
+389,WRO170M,Za centrum handlowym,Wrocław,wroclaw,Swojczycka,dolnośląskie,51-501,69,51.11293,17.1212,0
+390,WRO171M,Park Handlowy od ulicy Buforowej,Wrocław,wroclaw,Buforowa,dolnośląskie,52-131,100,51.05105,17.05899,0
+391,WRO173M,Przy aptece,Wrocław,wroclaw,Jarnołtowska,dolnośląskie,54-530,3,51.12056,16.86266,0
+392,WRO174M,Prywatna posesja,Wrocław,wroclaw,Kamiennogórska,dolnośląskie,54-033,66,51.13561,16.89843,0
+393,WRO175M,Parking przy budynku biurowym West Link,Wrocław,wroclaw,Szybowcowa,dolnośląskie,54-130,2,51.12535,16.97694,0
+394,WRO176M,Przy budynku usługowym,Wrocław,wroclaw,Koreańska,dolnośląskie,52-121,2,51.05804,17.08674,0
+395,WRO178M,Przy sklepie Netto,Wrocław,wroclaw,Stryjska,dolnośląskie,54-614,2,51.09754,16.9521,0
+396,WRO179M,Przy parkingu,Wrocław,wroclaw,Popowicka,dolnośląskie,54-238,28,51.12586,16.99598,0
+397,WRO17L,Przy markecie Stokrotka,Wrocław,wroclaw,Wapienna,dolnośląskie,50-518,35,51.08759,17.0418,0
+398,WRO17N,Przy sklepie Żabka,Wrocław,wroclaw,Krępicka,dolnośląskie,54-018,44,51.15008,16.86212,0
+399,WRO181M,Przy wjeździe na parking obok myjni,Wrocław,wroclaw,Rogowska,dolnośląskie,54-440,1,51.11837,16.95789,0
+400,WRO182M,parking przy hostelu. dziedziniec wewnętrzny,Wrocław,wroclaw,Sienkiewicza,dolnośląskie,50-348,106a,51.11638,17.05987,0
+401,WRO183M,Na Prywatnej Posesji,Wrocław,wroclaw,Torfowa,dolnośląskie,51-170,22,51.15403,17.07243,0
+402,WRO184M,Przy klatce mieszkaniowej nr 5,Wrocław,wroclaw,Topolowa,dolnośląskie,52-110,5,51.06939,17.07814,0
+403,WRO185M,Przy siedzibie Spółdzielni,Wrocław,wroclaw,Kamieńskiego,dolnośląskie,51-124,64a,51.14525,17.0404,0
+404,WRO186M,Przy wjeździe,Wrocław,wroclaw,Metalowców,dolnośląskie,54-156,25,51.12791,16.95372,0
+405,WRO187M,Przy lokalu usługowym,Wrocław,wroclaw,Kutrzeby,dolnośląskie,52-213,53,51.0525,17.01925,0
+406,WRO188M,Wzdłuż płotu na prywatnej posesji,Wrocław,wroclaw,Graniczna,dolnośląskie,54-530,133,51.10957,16.90449,0
+407,WRO189M,przejście do klatek budynku,Wrocław,wroclaw,Mieszczańska,dolnośląskie,50-201,34,51.11969,17.02392,0
+408,WRO18L,Przy Centrum Handlowym TGG. obok stacji paliw,Wrocław,wroclaw,Słubicka,dolnośląskie,53-615,18,51.11809,17.00017,0
+409,WRO18M,Przy biurowcu,Wrocław,wroclaw,Wałbrzyska,dolnośląskie,52-314,24,51.06423,16.97894,0
+410,WRO18N,Przy pętli tramwajowej na ternie domu akademickiego AWF,Wrocław,wroclaw,Adama Mickiewicza,dolnośląskie,51-684,98,51.11428,17.10428,0
+411,WRO190M,Od ulicy Jeżowskiej,Wrocław,wroclaw,Porębska,dolnośląskie,54-048,8,51.14254,16.90422,0
+412,WRO191M,Przy parkingu,Wrocław,wroclaw,Rychtalska,dolnośląskie,50-304,8,51.12853,17.04662,0
+413,WRO192M,Na terenie prywatnym,Wrocław,wroclaw,Pawia,dolnośląskie,52-235,25,51.06601,17.03836,0
+414,WRO194M,Przy sklepie Hermes,Wrocław,wroclaw,Wałbrzyska,dolnośląskie,52-314,41,51.06388,16.97642,0
+415,WRO195M,Przy Prywatnej Posesji.,Wrocław,wroclaw,Sosnowiecka,dolnośląskie,52-008,1A,51.06976,17.09096,0
+416,WRO196M,Przy parkingu,Wrocław,wroclaw,Robotnicza,dolnośląskie,53-608,72E,51.111,17.00136,0
+417,WRO197M,Przy Stacji MOYA express.,Wrocław,wroclaw,Krakowska,dolnośląskie,50-429,150,51.08373,17.07486,0
+418,WRO198M,Przy firmie Whirlpool,Wrocław,wroclaw,Komorowskiego,dolnośląskie,51-210,6,51.15557,17.11847,0
+419,WRO199M,Wzdłuż płotu na prywatnej posesji,Wrocław,wroclaw,Uciechowska,dolnośląskie,54-061,dz. 34/2,51.15768,16.91601,0
+420,WRO19A,Stacja paliw BP,Wrocław,wroclaw,Legnicka,dolnośląskie,54-205,67,51.1271,16.98111,0
+421,WRO19L,przy warsztacie,Wrocław,wroclaw,Kłokoczycka,dolnośląskie,51-378,177,51.15775,17.09383,0
+422,WRO19M,Market Dino,Wrocław,wroclaw,Strachocińska,dolnośląskie,51-518,193,51.10009,17.15892,0
+423,WRO19ML,Przy Anteny TV SAT. POK Inpost,Wrocław,wroclaw,Boguszowska,dolnośląskie,54-046,82,51.15049,16.89198,0
+424,WRO200M,Przy wjeździe na posesję,Wrocław,wroclaw,Krzycka,dolnośląskie,53-020,4,51.07461,17.00387,0
+425,WRO201M,Przy Gabinecie Dentystycznym,Wrocław,wroclaw,Orzechowa,dolnośląskie,50-567,18,51.08141,17.04223,0
+426,WRO202M,Na prywatnej posesji,Wrocław,wroclaw,Chorwacka,dolnośląskie,51-112,31,51.13669,17.02579,0
+427,WRO203M,Przy Osiedlu.,Wrocław,wroclaw,Wietnamska,dolnośląskie,52-110,3,51.06215,17.08412,0
+428,WRO204M,Parking obok bloku,Wrocław,wroclaw,Wojanowska,dolnośląskie,54-063,36,51.15416,16.89691,0
+429,WRO205M,Parking przed blokiem,Wrocław,wroclaw,Dolnobrzeska,dolnośląskie,54-072,44,51.15206,16.86378,0
+430,WRO206M,Po prawej stronie od wejścia do Żabki.,Wrocław,wroclaw,Maślicka,dolnośląskie,54-107,104,51.1533,16.939,0
+431,WRO207M,Na skrzyżowaniu Rapackiego i Wawrzyniaka,Wrocław,wroclaw,Wawrzyniaka,dolnośląskie,53-021,23,51.07558,17.00067,0
+432,WRO208M,Przy Osiedlu.,Wrocław,wroclaw,Syjamska,dolnośląskie,52-113,4,51.06565,17.08137,0
+433,WRO209M,Przy Hurtowni Ewax.,Wrocław,wroclaw,Grota-Roweckiego,dolnośląskie,52-232,116,51.0559,17.03328,0
+434,WRO20M,Przy sklepie Kiosk,Wrocław,wroclaw,Jastrzębia,dolnośląskie,53-148,6,51.08416,17.00939,0
+435,WRO20N,Przy Hali Targowej Blaszak od strony pętli autobusowej,Wrocław,wroclaw,Poleska,dolnośląskie,51-354,50,51.14241,17.12779,0
+436,WRO210M,Obok sklepu Delikatesy Centrum,Wrocław,wroclaw,Tęczowa,dolnośląskie,53-603,30,51.10632,17.01791,0
+437,WRO211M,Przy wjeździe na targ od ul. Żubrzej,Wrocław,wroclaw,Niedźwiedzia,dolnośląskie,54-232,1,51.12145,16.99566,0
+438,WRO212M,W linii ogrodzenia,Wrocław,wroclaw,Petrażyckiego,dolnośląskie,52-437,66,51.07357,16.9659,0
+439,WRO213M,Wzdłuż płotu,Wrocław,wroclaw,Koszalińska,dolnośląskie,54-316,9,51.12527,16.95188,0
+440,WRO215M,trawnik przed budynkiem,Wrocław,wroclaw,Na Szańcach,dolnośląskie,50-327,15,51.1189,17.04517,0
+441,WRO216M,Przy sklepie spożywczym,Wrocław,wroclaw,Kukułcza,dolnośląskie,51-419,8,51.13339,17.08176,0
+442,WRO218M,Obok sklepu z warzywami,Wrocław,wroclaw,Kwiska,dolnośląskie,54-210,16,51.12325,16.98248,0
+443,WRO219M,Stacja Paliw Omega,Wrocław,wroclaw,Bardzka,dolnośląskie,50-517,6,51.08353,17.04988,0
+444,WRO21A,Przy centrum handlowym,Wrocław,wroclaw,Długa,dolnośląskie,53-633,37,51.12138,17.01477,0
+445,WRO21M,Przy szkole Tenisa,Wrocław,wroclaw,Kozanowska,dolnośląskie,54-152,69,51.13939,16.97353,0
+446,WRO21N,Przy sklepie spożywczym,Wrocław,wroclaw,Racławicka,dolnośląskie,53-149,37,51.08331,17.00491,0
+447,WRO220M,Przy placu zabaw,Wrocław,wroclaw,Kasztelańska,dolnośląskie,51-200,21,51.15651,17.13465,0
+448,WRO222M,Przy myjni ręcznej,Wrocław,wroclaw,Plac Hirszfelda,dolnośląskie,53-413,14M,51.09511,17.01566,0
+449,WRO223M,Przy markecie Aldi,Wrocław,wroclaw,Obornicka,dolnośląskie,51-114,72,51.13953,17.02674,0
+450,WRO224M,Przy budynku nr 52,Wrocław,wroclaw,Szkocka,dolnośląskie,54-402,52,51.10852,16.95919,0
+451,WRO225M,Przy Foodtruckach,Wrocław,wroclaw,Pawia,dolnośląskie,52-235,44,51.06362,17.0375,0
+452,WRO226M,Obok sklepu Delikatesy Centrum,Wrocław,wroclaw,Legnicka,dolnośląskie,53-673,23/25,51.113337,17.014496,0
+453,WRO227M,Parking obok bloku,Wrocław,wroclaw,Prężycka,dolnośląskie,54-072,66,51.15291,16.86441,0
+454,WRO228M,Boczna ściana sklepu Jomo,Wrocław,wroclaw,Wojrowicka,dolnośląskie,52-434,2,51.11476,16.96124,0
+455,WRO229M,Przy Starterze I,Wrocław,wroclaw,Wybrzeże L. Pasteura,dolnośląskie,50-378,18,51.11387,17.07086,0
+456,WRO22A,Przy markecie Kaufland,Wrocław,wroclaw,Bardzka,dolnośląskie,50-517,1C,51.08468,17.04674,0
+457,WRO22M,Na parkingu sklepu Lidl,Wrocław,wroclaw,Grabiszyńska,dolnośląskie,53-241,253,51.09611,16.98341,0
+458,WRO22N,Przy wjeździe na parking osiedlowy,Wrocław,wroclaw,Gajowicka,dolnośląskie,53-323,138,51.08923,17.00725,0
+459,WRO230M,Przy wejściu do marketu Aldi,Wrocław,wroclaw,Szybowcowa,dolnośląskie,54-130,7,51.12772,16.97493,0
+460,WRO233M,Wzdłuż płotu,Wrocław,wroclaw,Modra,dolnośląskie,54-151,34A,51.13711,16.97012,0
+461,WRO234M,boczna ściana sklepu po prawej stronie,Wrocław,wroclaw,Walerego Sławka,dolnośląskie,52-007,11,51.10866,17.09421,0
+462,WRO235M,Przy sklepie Aldi,Wrocław,wroclaw,Zwycięska,dolnośląskie,53-033,7,51.06112,17.00071,0
+463,WRO236M,Przejście budynku,Wrocław,wroclaw,Głogowska,dolnośląskie,53-621,6,51.1165,17.00248,0
+464,WRO237M,przy elewacji sklepu od Świętego Wincentego,Wrocław,wroclaw,Świętego Wincentego,dolnośląskie,50-253,1,51.12227,17.03119,0
+465,WRO238M,Spółdzielnia PDK. w płocie,Wrocław,wroclaw,Dworcowa,dolnośląskie,50-441,17,51.10079,17.03928,0
+466,WRO239M,Przy wjeździe na osiedle,Wrocław,wroclaw,Obornicka,dolnośląskie,51-113,24,51.1355,17.03345,0
+467,WRO23A,Przy Centrum Handlowym Gaj,Wrocław,wroclaw,Świeradowska,dolnośląskie,50-559,70,51.0775,17.04745,0
+468,WRO23M,Przy sklepie Żabka,Wrocław,wroclaw,Królewska,dolnośląskie,51-200,25A,51.15794,17.13123,0
+469,WRO23N,Przy skrzyżowaniu ulic,Wrocław,wroclaw,Jantarowa,dolnośląskie,53-330,18,51.09266,17.01292,0
+470,WRO240M,Przy Restauracji MIKI.,Wrocław,wroclaw,Włościańska,dolnośląskie,51-514,65,51.10407,17.15064,0
+471,WRO241M,Na skrzyżowaniu ulic Strachocińska/Narciarska,Wrocław,wroclaw,Strachocińska,dolnośląskie,51-511,136,51.10431,17.15239,0
+472,WRO242M,Przy sklepie Żabka.,Wrocław,wroclaw,Kowalska,dolnośląskie,51-424,81A,51.13349,17.10361,0
+473,WRO243M,Obok Spółdzielni Mieszkaniowej Rolbud (zwrócony tyłem do parkingu),Wrocław,wroclaw,Wiejska,dolnośląskie,52-437,,51.07826,16.95876,0
+474,WRO245M,Przy ścianie budynku,Wrocław,wroclaw,Średzka,dolnośląskie,54-017,16B,51.14579,16.86975,0
+475,WRO246M,Parking obok budynku,Wrocław,wroclaw,Jurija Gagarina,dolnośląskie,54-620,110,51.0943,16.93416,0
+476,WRO247M,przy wjeżdzie na teren po prawej stronie,Wrocław,wroclaw,Ołtaszyńska,dolnośląskie,52-200,51,51.06488,17.00939,0
+477,WRO248M,Na tyłach sklepu,Wrocław,wroclaw,Kowalska,dolnośląskie,51-424,72,51.13432,17.10183,0
+478,WRO249M,obok wjazdu na posesję,Wrocław,wroclaw,Przedświt,dolnośląskie,54-618,9,51.09544,16.94469,0
+479,WRO24A,Przy Centrum Handlowym Tęcza,Wrocław,wroclaw,Jerzego Bajana,dolnośląskie,54-129,1,51.13026,16.96514,0
+480,WRO24M,Po prawej stronie od wejścia do marketu,Wrocław,wroclaw,Karczemna,dolnośląskie,54-067,1,51.173,16.914,0
+481,WRO24N,Przy parkingu spółdzielni SM Gądów,Wrocław,wroclaw,Na Ostatnim Groszu,dolnośląskie,54-207,24/26,51.12355,16.97772,0
+482,WRO251M,Na działce prywatnej,Wrocław,wroclaw,Szewczenki,dolnośląskie,51-348,2,51.14153,17.1249,0
+483,WRO252M,Na parkingu osiedla,Wrocław,wroclaw,Kasprowicza,dolnośląskie,51-118,1,51.13576,17.03796,0
+484,WRO253M,Parking przed Żabką,Wrocław,wroclaw,Stabłowicka,dolnośląskie,54-066,152,51.17192,16.90286,0
+485,WRO254M,Na rogu ulic Zwiadowców/Unruga,Wrocław,wroclaw,Zwiadowców,dolnośląskie,52-207,14,51.05512,17.0185,0
+486,WRO255M,Przy wjeździe na parking osiedlowy,Wrocław,wroclaw,Kamieńskiego,dolnośląskie,51-124,144,51.1491,17.04276,0
+487,WRO256M,W płocie,Wrocław,wroclaw,Strachocińska,dolnośląskie,51-511,83,51.1064,17.14334,0
+488,WRO258M,Przychodnia Weterynaryjna,Wrocław,wroclaw,Stabłowicka,dolnośląskie,54-058,56,51.15685,16.8916,0
+489,WRO259M,Narożnik ul. Paulińskiej i Pl. Świętego Macieja,Wrocław,wroclaw,Pl. Świętego Macieja,dolnośląskie,50-244,13-15,51.12038,17.03503,0
+490,WRO25A,Przy sklepie Społem Południe,Wrocław,wroclaw,Inżynierska,dolnośląskie,53-228,19,51.09499,16.99157,0
+491,WRO25N,Stacja paliw Avia,Wrocław,wroclaw,Gazowa,dolnośląskie,50-513,3,51.07772,17.06951,0
+492,WRO261M,Na skrzyżowaniu ulic Parnickiego/Obornicka,Wrocław,wroclaw,Parnickiego,dolnośląskie,51-116,1,51.13909,17.02884,0
+493,WRO262M,Przy drukarni,Wrocław,wroclaw,Wędkarzy,dolnośląskie,51-050,18,51.16741,16.96396,0
+494,WRO263M,Przy wjeździe na parking strzeżony. za WRO83M,Wrocław,wroclaw,Rychtalska,dolnośląskie,50-304,7,51.12899,17.04753,0
+495,WRO264M,Przy parkingu od strony stacji paliw,Wrocław,wroclaw,Zakładowa,dolnośląskie,50-231,2/4,51.13059,17.03943,0
+496,WRO265M,Przy pasażu handlowym,Wrocław,wroclaw,Poleska,dolnośląskie,51-354,48,51.14296,17.12753,0
+497,WRO266M,Na szczycie bloku od ulicy Litewskiej,Wrocław,wroclaw,Żmudzka,dolnośląskie,51-354,23,51.14323,17.13975,0
+498,WRO267M,Przy klatce schodowej nr 8,Wrocław,wroclaw,Sycowska,dolnośląskie,51-312,8,51.14738,17.11219,0
+499,WRO268M,Na szczycie bloku przy klatce schodowej nr 107,Wrocław,wroclaw,Kiełczowska,dolnośląskie,51-315,107,51.14441,17.13629,0
+500,WRO269M,Przy klatce schodowej nr 37,Wrocław,wroclaw,Inflancka,dolnośląskie,51-317,37,51.1435,17.13104,0
+501,WRO26A,Przy sklepie Społem Południe,Wrocław,wroclaw,Wełniana,dolnośląskie,54-059,31,51.15851,16.89723,0
+502,WRO26M,Na parkingu,Wrocław,wroclaw,Mińska,dolnośląskie,54-610,50,51.10314,16.94478,0
+503,WRO26N,Przy Parku Handlowym N-Park,Wrocław,wroclaw,Gagarina,dolnośląskie,54-620,27,51.09472,16.93303,0
+504,WRO270M,Na szczycie bloku,Wrocław,wroclaw,Litewska,dolnośląskie,51-354,34,51.14321,17.13355,0
+505,WRO271M,Przy placu zabaw,Wrocław,wroclaw,Sycowska,dolnośląskie,51-319,16D,51.14618,17.11114,0
+506,WRO272M,Przy Bloku 1-3,Wrocław,wroclaw,Inflancka,dolnośląskie,51-354,1-3,51.14587,17.1313,0
+507,WRO273M,Od ulicy Kamiennej przy chodniku,Wrocław,wroclaw,Drukarska,dolnośląskie,53-311,31,51.08985,17.01981,0
+508,WRO274M,Business Park Długosza,Wrocław,wroclaw,Długosza,dolnośląskie,51-162,48-60,51.13532,17.06558,0
+509,WRO275M,W płocie parkingu,Wrocław,wroclaw,Wielkopolska,dolnośląskie,54-027,72,51.14364,16.87811,0
+510,WRO276M,Przy wejściu na podwórze,Wrocław,wroclaw,Bieńkowskiego,dolnośląskie,54-115,22,51.13519,16.92449,0
+511,WRO277M,Przy budynku mieszkalnym,Wrocław,wroclaw,Legnicka,dolnośląskie,54-204,60c,51.12109,16.9894,0
+512,WRO278M,Przy barze Kęs,Wrocław,wroclaw,Życzliwa,dolnośląskie,52-443,13,51.06764,16.9879,0
+513,WRO279M,Na przeciwko przedszkola,Wrocław,wroclaw,Olbrachtowska,dolnośląskie,54-063,44-48,51.15327,16.90835,0
+514,WRO27A,Przy Nobilis Business House,Wrocław,wroclaw,Skłodowskiej-Curie,dolnośląskie,50-381,12,51.1131,17.0571,0
+515,WRO27M,Przy parkingu za blokami,Wrocław,wroclaw,Dolnobrzeska,dolnośląskie,54-072,24,51.14942,16.86577,0
+516,WRO27N,Stacja paliw Circle K,Wrocław,wroclaw,Romana Dmowskiego,dolnośląskie,50-203,5,51.11738,17.02146,0
+517,WRO280M,Na parkingu za hotelem. od strony ulicy Gwiaździstej,Wrocław,wroclaw,Powstańców Śląskich,dolnośląskie,53-332,7,51.09852,17.0239,0
+518,WRO281M,Przy sklepie Stokrotka. tyłem do parkingu.,Wrocław,wroclaw,Sielska,dolnośląskie,54-144,3,51.14021,16.96273,0
+519,WRO283M,Parking przed kościołem św. Stanisława Kostki (od ulicy Przestrzennej),Wrocław,wroclaw,Przestrzenna,dolnośląskie,50-501,50,51.08924,17.04294,0
+520,WRO284M,Przy parkingu samochodowym,Wrocław,wroclaw,Gajowicka,dolnośląskie,53-421,95,51.09525,17.0104,0
+521,WRO285M,Przy wjeździe na osiedle,Wrocław,wroclaw,Zielna,dolnośląskie,51-313,10,51.14496,17.1102,0
+522,WRO286M,Na szczycie bloku od ulicy Pretficza,Wrocław,wroclaw,Gajowicka,dolnośląskie,53-407,131,51.09168,17.00758,0
+523,WRO287M,Przy Przystanku Autobusowym,Wrocław,wroclaw,Kamieńskiego,dolnośląskie,51-180,268,51.16306,17.04587,0
+524,WRO289M,Przy przedszkolu Łobuziaki,Wrocław,wroclaw,Maślicka,dolnośląskie,54-107,148,51.15637,16.93521,0
+525,WRO28M,Przy bloku od ulicy Zegadłowicza,Wrocław,wroclaw,Trzebnicka,dolnośląskie,50-310,76D,51.12906,17.03482,0
+526,WRO28N,Przy sklepie Społem,Wrocław,wroclaw,Solskiego,dolnośląskie,52-416,50,51.08291,16.96966,0
+527,WRO290M,Parking przy Wspólnocie Mieszkaniowej,Wrocław,wroclaw,Grota-Roweckiego,dolnośląskie,52-232,123,51.05648,17.03222,0
+528,WRO291M,Obok schodów do sklepu Rabat,Wrocław,wroclaw,Ścinawska,dolnośląskie,53-641,20,51.11766,17.01041,0
+529,WRO292M,Na parkingu parku handlowego,Wrocław,wroclaw,Północna,dolnośląskie,54-105,1,51.15779,16.93439,0
+530,WRO293M,Na osiedlu od ulicy Poleskiej,Wrocław,wroclaw,Poleska,dolnośląskie,51-317,1,51.14625,17.12828,0
+531,WRO294M,W narożniku parkingu,Wrocław,wroclaw,Kolista,dolnośląskie,54-152,20A,51.13352,16.97252,0
+532,WRO295M,Przy Lotniczych Zakładach Naukowych,Wrocław,wroclaw,Kiełczowska,dolnośląskie,51-315,43,51.14647,17.12271,0
+533,WRO296M,Przy wjeździe na teren składu budowlanego,Wrocław,wroclaw,Sołtysowicka,dolnośląskie,51-168,25B,51.14332,17.07121,0
+534,WRO297M,Przy wjeździe na teren budynku usługowo - handlowego,Wrocław,wroclaw,Wojanowska,dolnośląskie,54-054,5,51.15464,16.89897,0
+535,WRO298M,Wzdłuż płotu parafii,Wrocław,wroclaw,Młodych Techników,dolnośląskie,53-647,17,51.11505,17.01417,0
+536,WRO299M,Przy sklepie Lidl,Wrocław,wroclaw,Piołunowa,dolnośląskie,54-530,18,51.1279,16.87957,0
+537,WRO29A,Stacja paliw AMIC ENERGY,Wrocław,wroclaw,Armii Krajowej,dolnośląskie,50-541,1,51.08267,17.03611,0
+538,WRO29M,Przy parkingu za budynkiem,Wrocław,wroclaw,Krzywoustego,dolnośląskie,51-310,285,51.14542,17.10942,0
+539,WRO29N,Przy markecie Lewiatan,Wrocław,wroclaw,Borowska,dolnośląskie,50-558,214,51.07468,17.03295,0
+540,WRO300M,Przy wjeździe na parking hotelu,Wrocław,wroclaw,Ślężna,dolnośląskie,53-302,26,51.09344,17.03158,0
+541,WRO301M,Na skrzyżowaniu ulic Sernicka/Paczkowska,Wrocław,wroclaw,Sernicka,dolnośląskie,50-503,1,51.08918,17.04754,0
+542,WRO302M,Przy bramie wjazdowej,Wrocław,wroclaw,Osobowicka,dolnośląskie,51-008,70,51.13546,16.99924,0
+543,WRO304M,Po lewej stronie budynku,Wrocław,wroclaw,Bacciarellego,dolnośląskie,51-649,6,51.10578,17.11115,0
+544,WRO305M,Przy posesji prywatnej,Wrocław,wroclaw,Wodzisławska,dolnośląskie,52-017,4,51.08068,17.08759,0
+545,WRO306M,Przy miejscach parkingowych z tyłu bloku,Wrocław,wroclaw,Wojanowska,dolnośląskie,54-050,82,51.15324,16.89967,0
+546,WRO307M,Boczna ściana sklepu spożywczego,Wrocław,wroclaw,Maślicka,dolnośląskie,54-142,166,51.15736,16.93215,0
+547,WRO308M,Obok parkingu Park & Ride,Wrocław,wroclaw,Lazurowa,dolnośląskie,54-044,dz. 342/3,51.1448822899,16.8895214412,0
+548,WRO309M,Od strony ulicy Parandowskiego,Wrocław,wroclaw,Stanisława Dygata,dolnośląskie,54-622,1,51.10241,16.95141,0
+549,WRO30A,Przy Netto,Wrocław,wroclaw,Sołtysowicka,dolnośląskie,51-168,17,51.14036,17.07173,0
+550,WRO30M,Przy wjeździe na parking,Wrocław,wroclaw,Bytomska,dolnośląskie,52-024,1,51.07724,17.08309,0
+551,WRO30N,Przy markecie E.Leclerc. po lewej stronie od wejścia,Wrocław,wroclaw,Zakładowa,dolnośląskie,50-231,2/4,51.13021,17.03976,0
+552,WRO310M,Przy Netto,Wrocław,wroclaw,Kiełczowska,dolnośląskie,51-315,78,51.14574,17.14094,0
+553,WRO311M,Na rogu Milickiej/Rudawskiej,Wrocław,wroclaw,Milicka,dolnośląskie,51-127,39,51.15198,17.03646,0
+554,WRO314M,Przy wjeździe na teren Politechniki,Wrocław,wroclaw,Wittiga,dolnośląskie,51-628,6,51.10338,17.08408,0
+555,WRO315M,Przy budynku T-22,Wrocław,wroclaw,Wróblewskiego,dolnośląskie,51-657,25,51.1041,17.08663,0
+556,WRO316M,Obok sklepu Żabka,Wrocław,wroclaw,Białowieska,dolnośląskie,54-234,66,51.12561,16.99332,0
+557,WRO31A,Przy sklepie Rabat,Wrocław,wroclaw,Hermanowska,dolnośląskie,54-314,43,51.12338,16.95253,0
+558,WRO31M,Przy bloku - klatka numer 19,Wrocław,wroclaw,Falzmanna,dolnośląskie,51-128,19,51.15554,17.04188,0
+559,WRO31N,Przy markecie Netto,Wrocław,wroclaw,Kiełczowska,dolnośląskie,51-315,42,51.14732,17.12326,0
+560,WRO32A,Przy sklepie Astech,Wrocław,wroclaw,Żernicka,dolnośląskie,54-510,211-213,51.12326,16.9247,0
+561,WRO32M,Przy bloku,Wrocław,wroclaw,Przybyszewskiego,dolnośląskie,51-148,112,51.14171,17.06285,0
+562,WRO32N,Przy markecie Kaufland,Wrocław,wroclaw,Legnicka,dolnośląskie,54-204,62A,51.12254,16.98973,0
+563,WRO33A,CH Wroclavia. niebieska strefa parkingu podziemnego. poziom -1,Wrocław,wroclaw,Sucha,dolnośląskie,50-525,1,51.09646,17.03438,0
+564,WRO33M,Na osiedlu. przy klatce numer 12,Wrocław,wroclaw,Wileńska,dolnośląskie,52-113,12,51.06623,17.08105,0
+565,WRO33N,Fryzjer dla psów La Pompon,Wrocław,wroclaw,Królewska,dolnośląskie,51-210,40,51.1599,17.1334,0
+566,WRO34A,Przy sklepie Społem Południe,Wrocław,wroclaw,Jemiołowa,dolnośląskie,53-447,50/54,51.09545,17.00896,0
+567,WRO34N,Parking między budynkami G i H,Wrocław,wroclaw,Legnicka,dolnośląskie,54-202,48,51.11678,16.9974,0
+568,WRO35A,Przy myjni bezdotykowej,Wrocław,wroclaw,Mysłowicka,dolnośląskie,51-506,47,51.1099,17.13804,0
+569,WRO35M,Market Dino,Wrocław,wroclaw,Poświęcka,dolnośląskie,51-128,9,51.15649,17.03267,0
+570,WRO35N,Po prawej stronie sklepu Lewiatan,Wrocław,wroclaw,Bacciarellego,dolnośląskie,51-663,6,51.1057,17.11148,0
+571,WRO36A,Po prawej stronie od wejścia do Sklepu Monopolowego Stalowa 70,Wrocław,wroclaw,Stalowa,dolnośląskie,53-425,70,51.1009,17.0003,0
+572,WRO36M,Market Dino,Wrocław,wroclaw,Krzywoustego,dolnośląskie,51-166,30,51.13806,17.07263,0
+573,WRO36N,Stacja paliw AMIC ENERGY,Wrocław,wroclaw,Sycowska,dolnośląskie,51-319,70,51.14653,17.10603,0
+574,WRO37A,Przy sklepie Żabka po prawej stronie od wejścia,Wrocław,wroclaw,Semaforowa,dolnośląskie,52-115,26,51.0606,17.0798,0
+575,WRO37M,Na parkingu za galerią N-park,Wrocław,wroclaw,Maślicka,dolnośląskie,54-104,216,51.15559,16.92046,0
+576,WRO37N,Przy wjeździe na teren prywatnej posesji,Wrocław,wroclaw,Swojczycka,dolnośląskie,51-502,82,51.11363,17.12156,0
+577,WRO38A,Po prawej stronie parkingu przy budynku firmy Artel,Wrocław,wroclaw,Nenckiego,dolnośląskie,52-212,138,51.05615,17.02445,0
+578,WRO38M,Przy Pasażu Grunwaldzkim,Wrocław,wroclaw,Plac Grunwaldzki,dolnośląskie,50-363,22,51.11354,17.0597,0
+579,WRO38N,Przy sklepie Netto. niedaleko wjazdu na parking,Wrocław,wroclaw,Nowodworska,dolnośląskie,54-433,17A,51.11516,16.9656,0
+580,WRO39A,Przy sklepie zoologicznym AnimaleSano (od ul. Inżynierskiej).,Wrocław,wroclaw,Grabiszyńska,dolnośląskie,53-235,238-240,51.09408,16.98156,0
+581,WRO39M,Na parkingu Aquaparku,Wrocław,wroclaw,Borowska,dolnośląskie,50-529,99,51.0897,17.03285,0
+582,WRO40A,Po prawej stronie od wejścia do sklepu Żabka,Wrocław,wroclaw,Górnicza,dolnośląskie,54-136,51A,51.1369,16.9581,0
+583,WRO40M,Przy sklepie Żabka,Wrocław,wroclaw,Redycka,dolnośląskie,51-169,8,51.14944,17.07394,0
+584,WRO40N,Na stacji paliw,Wrocław,wroclaw,Krzemieniecka,dolnośląskie,54-613,46A,51.0955,16.9621,0
+585,WRO41A,Przy sklepie Aldi,Wrocław,wroclaw,Kościuszki,dolnośląskie,50-440,133A,51.09894,17.04793,0
+586,WRO41M,Przy sklepie Aldi,Wrocław,wroclaw,Średzka,dolnośląskie,54-001,41,51.1455,16.86599,0
+587,WRO41N,Przy stacji Circle K,Wrocław,wroclaw,al. Karkonoska,dolnośląskie,53-015,52,51.0625,17.00134,0
+588,WRO42M,Na terenie Spółdzielni Mieszkaniowej im. Prusa,Wrocław,wroclaw,Reja,dolnośląskie,50-354,46,51.11776,17.05755,0
+589,WRO42N,Po lewej stronie od wejścia do supermarketu Kaufland,Wrocław,wroclaw,Jana Długosza,dolnośląskie,51-162,74,51.13686,17.0671,0
+590,WRO43A,Przy wjeździe do parkingu podziemnego,Wrocław,wroclaw,Sienkiewicza,dolnośląskie,50-335,22,51.11811,17.04686,0
+591,WRO43M,Na terenie Spółdzielni Mieszkaniowej im. Prusa,Wrocław,wroclaw,Jaracza,dolnośląskie,50-305,40,51.12446,17.05684,0
+592,WRO43N,Po prawej stronie od wejścia do sklepu Castorama,Wrocław,wroclaw,Graniczna,dolnośląskie,54-610,2,51.10578,16.94417,0
+593,WRO45M,Przy Parku Handlowym (od strony ulicy Vivaldiego),Wrocław,wroclaw,Buforowa,dolnośląskie,52-131,100,51.05145,17.05911,0
+594,WRO45N,Przy wejściu do supermarketu Spar,Wrocław,wroclaw,Przyjaźni,dolnośląskie,53-030,2,51.06807,17.00317,0
+595,WRO46M,Przy budynku przedszkola,Wrocław,wroclaw,Rajska,dolnośląskie,54-028,69,51.14142,16.89781,0
+596,WRO47M,Przed sklepem ToMa,Wrocław,wroclaw,Krzycka,dolnośląskie,53-019,1,51.07461,17.00493,0
+597,WRO48M,Na terenie myjni samoobsługowej,Wrocław,wroclaw,Rumiankowa,dolnośląskie,54-512,1,51.12223,16.93134,0
+598,WRO49M,Przy serwisie samochodowym,Wrocław,wroclaw,Kolista,dolnośląskie,54-152,14K,51.13364,16.97437,0
+599,WRO50M,Przy sklepie Lidl,Wrocław,wroclaw,Muchoborska,dolnośląskie,54-424,17,51.11034,16.97049,0
+600,WRO51M,Przy sklepie Lidl,Wrocław,wroclaw,Obornicka,dolnośląskie,51-113,68,51.13768,17.02593,0
+601,WRO52M,Przy parkingu sklepu Lidl,Wrocław,wroclaw,Kępińska,dolnośląskie,51-132,1,51.14467,17.03248,0
+602,WRO53M,Przy parkingu sklepu Lidl,Wrocław,wroclaw,Długosza,dolnośląskie,51-162,34,51.13411,17.06064,0
+603,WRO54M,Przy sklepie Lidl,Wrocław,wroclaw,Królewiecka,dolnośląskie,54-117,27,51.14678,16.94125,0
+604,WRO55M,Przy Galerii Ferio Gaj,Wrocław,wroclaw,ŚWIERADOWSKA,dolnośląskie,50-559,51/57,51.0756,17.04278,0
+605,WRO56M,Przy prywatnej posesji.,Wrocław,wroclaw,Grabowa,dolnośląskie,54-115,22,51.1384,16.921,0
+606,WRO57M,Na parkingu Lidla,Wrocław,wroclaw,Powstańców Śląskich,dolnośląskie,53-140,211A,51.077,17.00658,0
+607,WRO58M,Przy serwisie ULDA,Wrocław,wroclaw,Kowalska,dolnośląskie,51-424,112,51.13258,17.10981,0
+608,WRO59M,Po lewej stronie od wjazdu.,Wrocław,wroclaw,Średzka,dolnośląskie,54-017,40,51.1464,16.8639,0
+609,WRO60M,Przy sklepie Lidl,Wrocław,wroclaw,Borowska,dolnośląskie,50-552,134,51.08275,17.03516,0
+610,WRO61M,Przy sklepie Lidl,Wrocław,wroclaw,Bierutowska,dolnośląskie,51-317,4-6,51.14839,17.11725,0
+611,WRO62M,Przy sklepie Lidl,Wrocław,wroclaw,Daktylowa,dolnośląskie,54-054,8,51.15499,16.89648,0
+612,WRO63M,Przy sklepie Lidl,Wrocław,wroclaw,Parafialna,dolnośląskie,52-223,60,51.05978,17.02481,0
+613,WRO64M,Przy sklepie Lidl,Wrocław,wroclaw,Hubska,dolnośląskie,50-502,84-86,51.08865,17.04735,0
+614,WRO65M,Przy sklepie Lidl,Wrocław,wroclaw,Gubińska,dolnośląskie,54-434,4,51.11273,16.9579,0
+615,WRO67M,Na terenie Spółdzielni Mieszkaniowej Huby,Wrocław,wroclaw,Ciepła,dolnośląskie,50-521,22,51.09172,17.03565,0
+616,WRO68M,Przy parkingu na ulicy Modelskiego,Wrocław,wroclaw,Modelskiego,dolnośląskie,54-702,1,51.16301,16.87447,0
+617,WRO69M,Naprzeciwko Apteki Silesia,Wrocław,wroclaw,Dworcowa,dolnośląskie,50-456,33,51.09961,17.03887,0
+618,WRO70M,Na terenie Myjni,Wrocław,wroclaw,Międzyleska 6b,dolnośląskie,50-514,6B,51.08025,17.06856,0
+619,WRO71M,Przy Myjni,Wrocław,wroclaw,Pełczyńska,dolnośląskie,51-180,113,51.1743,16.99432,0
+620,WRO72M,Za sklepem Lidl,Wrocław,wroclaw,Wilanowska,dolnośląskie,51-206,4,51.15434,17.12835,0
+621,WRO73M,Przy Lidlu,Wrocław,wroclaw,Braniborska,dolnośląskie,53-680,82,51.11165,17.00748,0
+622,WRO74M,Na parkingu przy Lidlu,Wrocław,wroclaw,Balonowa,dolnośląskie,54-129,30,51.1221,16.9612,0
+623,WRO75M,Przy Lidlu,Wrocław,wroclaw,Gagarina,dolnośląskie,54-620,21,51.0956,16.93337,0
+624,WRO76M,Po lewej stronie od wejścia.,Wrocław,wroclaw,Dokerska 2a,dolnośląskie,54-142,2A,51.1378,16.9656,0
+625,WRO77M,Przy Arkadach Wrocławskich,Wrocław,wroclaw,Powstańców Śląskich,dolnośląskie,53-332,2-4,51.0992,17.02758,0
+626,WRO79M,Przy Circle K,Wrocław,wroclaw,Sucha,dolnośląskie,50-086,15C,51.09614,17.0397,0
+627,WRO80M,Przy wejściu do Sky Tower,Wrocław,wroclaw,Powstańców Śląskich,dolnośląskie,53-332,95,51.09523,17.01939,0
+628,WRO81M,Przed wjazdem po prawej stronie.,Wrocław,wroclaw,Starogajowa,dolnośląskie,54-047,6,51.1437,16.8987,0
+629,WRO82M,Przy siedzibie S.M. Wojewodzianka,Wrocław,wroclaw,Drukarska,dolnośląskie,53-312,38,51.08873,17.02059,0
+630,WRO83M,W lini płotu. obok wjazdu na teren parkingu,Wrocław,wroclaw,Rychtalska,dolnośląskie,50-304,7,51.12899,17.04753,0
+631,WRO85M,Przy wiatach,Wrocław,wroclaw,Sarnia,dolnośląskie,52-129,4,51.04961,17.05884,0
+632,WRO86M,Przy parkingu firmy Dan-mark,Wrocław,wroclaw,Stabłowicka,dolnośląskie,54-062,118,51.16738,16.89862,0
+633,WRO87M,Przy sklepie Aldi,Wrocław,wroclaw,Długosza,dolnośląskie,51-162,14,51.13312,17.0601,0
+634,WRO88M,W uliczce pomiędzy kamienicami,Wrocław,wroclaw,Plac Teatralny,dolnośląskie,50-051,3,51.10534,17.0324,0
+635,WRO89M,Przy wjeździe na parking TBS,Wrocław,wroclaw,Afgańska,dolnośląskie,52-117,3,51.06209,17.08242,0
+636,WRO90M,Przy firmie Future World,Wrocław,wroclaw,Ożynowa,dolnośląskie,53-009,51B,51.06509,17.01099,0
+637,WRO911,Market Dino,Wrocław,wroclaw,Zielińskiego,dolnośląskie,53-534,22A,51.0997,17.02386,0
+638,WRO91M,Przy przystanku autobusowym. obok wjazdu na teren UEW,Wrocław,wroclaw,Kamienna,dolnośląskie,53-307,61/63,51.08946,17.02713,0
+639,WRO92M,Obok budynku "E" Uniwersytetu Ekonomicznego. od strony ul. Komandorskiej,Wrocław,wroclaw,Komandorska,dolnośląskie,53-345,118/120,51.09149,17.02485,0
+640,WRO93M,Przy sklepie odzieżowym.,Wrocław,wroclaw,Hubska,dolnośląskie,50-502,80,51.08933,17.04531,0
+641,WRO94M,Przy budynku od ulicy Pięknej,Wrocław,wroclaw,Piękna,dolnośląskie,50-506,56,51.08528,17.05667,0
+642,WRO95M,Przy budynku mieszkaniowym,Wrocław,wroclaw,Wielka,dolnośląskie,50-529,33,51.09283,17.02136,0
+643,WRO96M,Z tyłu budynku,Wrocław,wroclaw,Brzoskwiniowa,dolnośląskie,50-539,8,51.08088,17.03851,0
+644,WRO97M,Przy wjeździe,Wrocław,wroclaw,Pęgowska,dolnośląskie,51-180,6,51.19636,16.97794,0
+645,WRO986,Przy Centrum Handlowym Młyn,Wrocław,wroclaw,Krzywoustego,dolnośląskie,51-421,110,51.14081,17.08432,0
+646,WRO98M,Za stacją Lotos,Wrocław,wroclaw,Aleja Karkonoska,dolnośląskie,53-015,49,51.06273,16.99796,0
+647,WRO99M,Przy drodze,Wrocław,wroclaw,Opolska,dolnośląskie,52-010,15E,51.07974,17.07997,0

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+
+    <record id="sale.sale_menu_root" model="ir.ui.menu">
+        <field name="active" eval="True"/>
+    </record>
+
+    <record id="sale.menu_sale_report" model="ir.ui.menu">
+        <field name="name">Reporting</field>
+        <field name="parent_id" ref="sale.sale_menu_root"></field>
+        <field name="active" eval="False"></field>
+    </record>
+
+    <menuitem id="menu_sale_report_ext"
+        name="Reporting"
+        parent="sale.sale_menu_root"
+        groups="sales_team.group_sale_manager"
+        sequence="40">
+
+        <menuitem id="sale_order_menu_report"
+            name="Sales Analysis"
+            sequence="10"
+            action="sale.action_order_report_all"
+            groups="sales_team.group_sale_manager"/>
+
+        <menuitem id="parcel_machine_menu_report"
+            name="Orders by Parcel Machine"
+            sequence="20"
+            action="parcel_machine_action_report"
+            groups="parcel_machine.parcel_machine_group_users"/>
+
+    </menuitem>
+
+
+</odoo>

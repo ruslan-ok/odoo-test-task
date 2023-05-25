@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+
+        <record id="parcel_machine_view_list" model="ir.ui.view">
+            <field name="name">parcel.machine.view.list</field>
+            <field name="model">parcel.machine</field>
+            <field eval="1" name="priority"/>
+            <field name="arch" type="xml">
+                <tree string="Parcel Machines">
+                    <field name="code"/>
+                    <field name="city"/>
+                    <field name="street"/>
+                    <field name="building"/>
+                    <field name="zip"/>
+                    <field name="description"/>
+                </tree>
+            </field>
+        </record>
+
+        <record id="parcel_machine_view_search" model="ir.ui.view">
+            <field name="name">parcel.machine.view.search</field>
+            <field name="model">parcel.machine</field>
+            <field name="arch" type="xml">
+                <search string="Search Parcel Machine">
+                    <field name="code"/>
+                    <field name="city"/>
+                    <field name="street"/>
+                    <field name="building"/>
+                    <field name="zip"/>
+                    <field name="description"/>
+                    <separator/>
+                    <filter name="filter_by_zip" string="By index (zip)" domain="[('zip', '=', context.get('zip'))]" invisible="context.get('hide_filter_by_zip')" help="Filter delivery addresses by Postal code (zip) of the main customer address."/>
+                    <separator/>
+                    <filter name="filter_with_orders" string="With orders" domain="[('count', '>', '0')]" invisible="context.get('hide_filter_with_orders')" help="Parcel Machines with Sale Orders obly"/>
+                </search>
+            </field>
+        </record>
+
+        <record id="parcel_machine_view_report" model="ir.ui.view">
+            <field name="name">parcel.machine.view.report</field>
+            <field name="model">parcel.machine</field>
+            <field eval="1" name="priority"/>
+            <field name="arch" type="xml">
+                <tree string="Parcel machines Report">
+                    <field name="code"/>
+                    <field name="city"/>
+                    <field name="street"/>
+                    <field name="building"/>
+                    <field name="zip"/>
+                    <field name="description"/>
+                    <field name="count"/>
+                </tree>
+            </field>
+        </record>
+
+        <record id="parcel_machine_action_report" model="ir.actions.act_window">
+            <field name="name">Orders by Parcel Machine</field>
+            <field name="res_model">parcel.machine</field>
+            <field name="view_mode">tree</field>
+            <field name="view_id" ref="parcel_machine_view_report"/>
+            <field name="search_view_id" ref="parcel_machine_view_search"/>
+            <field name="context">{'search_default_filter_with_orders': 1, 'hide_filter_by_zip': 1}</field>
+            <field name="help">Number of orders delivered to various parcel machines.</field>
+        </record>
+
+    </data>
+</odoo>

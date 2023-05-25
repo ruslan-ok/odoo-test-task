@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+parcel_machine.access_parcel_machine,access_parcel_machine,parcel_machine.model_parcel_machine,parcel_machine.parcel_machine_group_users,1,0,0,0

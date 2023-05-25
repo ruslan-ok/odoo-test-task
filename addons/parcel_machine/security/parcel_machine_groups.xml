@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <record id="parcel_machine_group_users" model="res.groups">
+        <field name="name">Allow delivery to a parcel machine</field>
+        <field name="category_id" ref="base.module_category_hidden"/>
+    </record>
+</odoo>
